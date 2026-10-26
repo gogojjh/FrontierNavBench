@@ -1,0 +1,24 @@
+{
+  "schema": "vnav-readme-archive/1",
+  "historical_snapshot": {
+    "generated": "2026-10-24",
+    "source_commit": "88a6f8e",
+    "upstream_commit": "4eb61c9",
+    "freeze": "v18"
+  },
+  "snapshot_sha256": "8b2be4663c4e17e8c55ceb1ab5470dc516f49d34382af007235e2be245a72204",
+  "artifacts": [
+    {
+      "file": "env1_recorded_trajectories.png",
+      "original_artifact": ".blog_stage/figures/env1_uniform_trajectories.png",
+      "sha256": "f973bdace1b1c96662a36f80050460131c445db86b9a1d6f8730d6c704db7e39",
+      "modified": false
+    },
+    {
+      "file": "env0_m2_recorded.jpg",
+      "original_artifact": ".blog_stage/figures/env0_m2_astra_r5.jpg",
+      "sha256": "ca1027e20884c14bc016289df62978624b6d8162a9ece97cb9878f5dda4d5a20",
+      "modified": false
+    }
+  ]
+}

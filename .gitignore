@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ruff_cache/
+.pytest_cache/
+build/
+dist/
+.env
+.venv*/
+.blog_stage/
+# Generated experiments are separate from the distributed inputs.
+runs/
+data/campaigns/
+data/downloads/
+*.mp4
+*.bag
+# NVIDIA Go2 assets are installed locally under their upstream license.
+assets/robots/**/*.usd
+assets/robots/go2/

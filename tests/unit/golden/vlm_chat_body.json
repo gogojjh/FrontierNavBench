@@ -1,0 +1,54 @@
+{
+  "model": "qwen3.8-max-0902",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a navigation policy. Output JSON only."
+    },
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "GOAL IMAGE:"
+        },
+        {
+          "type": "image_url",
+          "image_url": {
+            "url": "data:image/jpeg;base64,/9j/4GZha2VqcGVn"
+          }
+        },
+        {
+          "type": "text",
+          "text": "END OF GOAL IMAGE"
+        },
+        {
+          "type": "text",
+          "text": "DECISION 0"
+        }
+      ]
+    }
+  ],
+  "response_format": {
+    "type": "json_schema",
+    "json_schema": {
+      "name": "vnav_action_v1",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "vx": {
+            "type": "number"
+          }
+        },
+        "required": [
+          "vx"
+        ]
+      },
+      "strict": true
+    }
+  },
+  "enable_thinking": false,
+  "temperature": 0.0,
+  "max_tokens": 3000,
+  "stream": false
+}

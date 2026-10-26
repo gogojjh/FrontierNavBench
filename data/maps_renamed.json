@@ -1,0 +1,215 @@
+{
+  "maps": [
+    {
+      "name": "R01_dense",
+      "previous_name": "R1_kf3m45",
+      "route": "R1",
+      "variant": "dense",
+      "view_sha256": "39f6e2017f06690913ec8512ba3e44ca61db34ea041723aa9fb6e627555b7b5d"
+    },
+    {
+      "name": "R01_sparse",
+      "previous_name": "R1_kf9m120",
+      "route": "R1",
+      "variant": "sparse",
+      "view_sha256": "affa8b72d11c31db6834df7c7dd1a37f01b294d7d05533df828b3d9bb32b7220"
+    },
+    {
+      "name": "R02_dense",
+      "previous_name": "R2_kf3m45",
+      "route": "R2",
+      "variant": "dense",
+      "view_sha256": "c12298459916e5acc7a75f68b34f1b75011213c12c3ca0b1764651e5f9f8b094"
+    },
+    {
+      "name": "R02_sparse",
+      "previous_name": "R2_kf9m120",
+      "route": "R2",
+      "variant": "sparse",
+      "view_sha256": "d7481a39076f6575c36da8467c7a3c2e361878e85d847d0cfea37421e082ebcf"
+    },
+    {
+      "name": "R03_dense",
+      "previous_name": "R3_kf3m45",
+      "route": "R3",
+      "variant": "dense",
+      "view_sha256": "c6eb8ea4a63ff05ab9277d823cc3d73a9194dfc8cfebe08263d7eab1a3064cc0"
+    },
+    {
+      "name": "R03_sparse",
+      "previous_name": "R3_kf9m120",
+      "route": "R3",
+      "variant": "sparse",
+      "view_sha256": "d6863ca3a7dd55cefff01205a9021c656e7a1d04554022b8a008f5aa9f9cdd8e"
+    },
+    {
+      "name": "R04_dense",
+      "previous_name": "R4_kf3m45",
+      "route": "R4",
+      "variant": "dense",
+      "view_sha256": "43167799e463417ddebec3aed6eac913f3663644252f1a062fb7cf2b58149c24"
+    },
+    {
+      "name": "R04_sparse",
+      "previous_name": "R4_kf9m120",
+      "route": "R4",
+      "variant": "sparse",
+      "view_sha256": "5801507b4d4e9a39aea710bad8930786a0663ae03e86de8631ac1bfbdb235f9f"
+    },
+    {
+      "name": "R05_dense",
+      "previous_name": "R5_kf3m45",
+      "route": "R5",
+      "variant": "dense",
+      "view_sha256": "f7311423eb162c4d08b2bd62fc64c4b494b01d727dc17b0a1e41c2f217550933"
+    },
+    {
+      "name": "R05_sparse",
+      "previous_name": "R5_kf9m120",
+      "route": "R5",
+      "variant": "sparse",
+      "view_sha256": "37cc790509ddbb78adb333b2ae1012ed0d319b1a509ef3e184b3587b00018957"
+    },
+    {
+      "name": "R06_dense",
+      "previous_name": "route_20261022-220738-f1fb8e_kf3m45",
+      "route": "R6",
+      "variant": "dense",
+      "view_sha256": "022d86e2229c5da7f3bfa950d45614bfb2a1e80afeb9d0604938723780d0f8a8"
+    },
+    {
+      "name": "R06_sparse",
+      "previous_name": "route_20261022-220738-f1fb8e_kf9m120",
+      "route": "R6",
+      "variant": "sparse",
+      "view_sha256": "e799837260cb06f8aa6bb5a252c8e75954c6713250b5397b749a0228895e4aed"
+    },
+    {
+      "name": "R07_dense",
+      "previous_name": "route_20261022-221118-94b00e_kf3m45",
+      "route": "R7",
+      "variant": "dense",
+      "view_sha256": "8fd225038b005b8db99194e0e27113f0d530608eaef1315451c20c437ade61d4"
+    },
+    {
+      "name": "R07_sparse",
+      "previous_name": "route_20261022-221118-94b00e_kf9m120",
+      "route": "R7",
+      "variant": "sparse",
+      "view_sha256": "0fc8fec67a53084d0f2e2643116cefb7c4ba4c4745f1197a20695c6f2ec1f8ca"
+    },
+    {
+      "name": "R08_dense",
+      "previous_name": "route_20261022-221503-21ab25_kf3m45",
+      "route": "R8",
+      "variant": "dense",
+      "view_sha256": "8dd1e3930c765aea7ee7a58d304093f0bb7b5bc53f743a6ff0fc4d4cf5bb6eab"
+    },
+    {
+      "name": "R08_sparse",
+      "previous_name": "route_20261022-221503-21ab25_kf9m120",
+      "route": "R8",
+      "variant": "sparse",
+      "view_sha256": "608c3f11c2a202335d69314a4425115d60b4f702648615e074d9fb1a6f642e1b"
+    },
+    {
+      "name": "R09_dense",
+      "previous_name": "route_20261022-222549-d6943d_kf3m45",
+      "route": "R9",
+      "variant": "dense",
+      "view_sha256": "933f2c450c7debbdb7fd9afe9f6d86fd05f019aa126ea474e34644e5a508058f"
+    },
+    {
+      "name": "R09_sparse",
+      "previous_name": "route_20261022-222549-d6943d_kf9m120",
+      "route": "R9",
+      "variant": "sparse",
+      "view_sha256": "a1970c6f02734067e52e93bb276d125c6e8d453d551df34b2fb4a26d896aa0f5"
+    },
+    {
+      "name": "R10_dense",
+      "previous_name": "route_20261022-222940-f235d6_kf3m45",
+      "route": "R10",
+      "variant": "dense",
+      "view_sha256": "a6b8ba70e4ea88c1885568aeda71846c4c5e3a22b559dc4936aa597e882a108e"
+    },
+    {
+      "name": "R10_sparse",
+      "previous_name": "route_20261022-222940-f235d6_kf9m120",
+      "route": "R10",
+      "variant": "sparse",
+      "view_sha256": "6dae347e6efa12f41f4bc982be1dc53d97acb181126eb41090f847ce59e5d0d1"
+    },
+    {
+      "name": "R11_dense",
+      "previous_name": "route_20261022-223845-ed8c91_kf3m45",
+      "route": "R11",
+      "variant": "dense",
+      "view_sha256": "11bacb72f5d7f6fc27d6bbcb88ac1a2f8009c2a61264570f7b1cbc3917fc9a95"
+    },
+    {
+      "name": "R11_sparse",
+      "previous_name": "route_20261022-223845-ed8c91_kf9m120",
+      "route": "R11",
+      "variant": "sparse",
+      "view_sha256": "19257056722a717a1d913d9379baff417734ebba9063d631ef744aa9148b3d85"
+    },
+    {
+      "name": "R12_dense",
+      "previous_name": "route_20261022-223451-8a6c24_kf3m45",
+      "route": "R12",
+      "variant": "dense",
+      "view_sha256": "a531c6374536e82c2e8a577497fa75911984b6b2414d7145012d1a8e89e9ae3d"
+    },
+    {
+      "name": "R12_sparse",
+      "previous_name": "route_20261022-223451-8a6c24_kf9m120",
+      "route": "R12",
+      "variant": "sparse",
+      "view_sha256": "f2261db3e78524a5b9e7e15357b807eacb93280c9af716b33ef2c60e5e78d5c0"
+    },
+    {
+      "name": "R13_dense",
+      "previous_name": "route_20261022-225546-19d928_kf3m45_v2",
+      "route": "R13",
+      "variant": "dense",
+      "view_sha256": "d77d6e1dcd7e385357538a7962c159a8a64511ebc31171f0a6e3ae4791b44d40"
+    },
+    {
+      "name": "R13_sparse",
+      "previous_name": "route_20261022-225546-19d928_kf9m120",
+      "route": "R13",
+      "variant": "sparse",
+      "view_sha256": "dc17238028dca5d4d548b7322fb262ef9b97402f2c5f5843774b6c3ceaad04e0"
+    },
+    {
+      "name": "R14_dense",
+      "previous_name": "route_20261022-224632-36491c_kf3m45",
+      "route": "R14",
+      "variant": "dense",
+      "view_sha256": "2941c8fb704ca4174f6ced7e940f110a1db61e9615851c1e602b7f3d44f24050"
+    },
+    {
+      "name": "R14_sparse",
+      "previous_name": "route_20261022-224632-36491c_kf9m120_v2",
+      "route": "R14",
+      "variant": "sparse",
+      "view_sha256": "ca94b115574272233a53938af7a1b789ad6513afc428d18944f742c7a69a4675"
+    },
+    {
+      "name": "R15_dense",
+      "previous_name": "route_20261022-225927-4bfce3_kf3m45_v2",
+      "route": "R15",
+      "variant": "dense",
+      "view_sha256": "5d350af7b49fa1ac8800356ebd65b69588ad974eb7bb4a00890b15f8f64167cd"
+    },
+    {
+      "name": "R15_sparse",
+      "previous_name": "route_20261022-225927-4bfce3_kf9m120_v2",
+      "route": "R15",
+      "variant": "sparse",
+      "view_sha256": "388bcee120986f4d37888281d7a7eb4473376cef01d9beffbca47b387ec4b40e"
+    }
+  ],
+  "schema": "vnav.map-names/1"
+}

@@ -1,0 +1,4 @@
+# M4 dense-initloc-imggoal-qwen:密图(3.0 m / 45°)+ 开头定位一次 + 沿路线给子目标照片,大模型看图走、看图判到没到;模型 DashScope qwen3.8-max-0902。
+# 数值常量都在 frontier_nav_bench/methods/imggoal_vlm.py 与 frontier_nav_bench/vlm/,这里只选端点。
+method_id: dense-initloc-imggoal-qwen
+endpoint: qwen  # 可选 astra 方法:astra_flex / astra / luna_dev(开发,不进表);qwen 方法:qwen

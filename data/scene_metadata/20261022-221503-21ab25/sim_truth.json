@@ -1,0 +1,21 @@
+{
+  "scene": "env1_garden_outdoor",
+  "task_origin_world": {
+    "position": [
+      5.749971457407589,
+      1.5821379955382606,
+      0.0
+    ],
+    "quat_xyzw": [
+      0.0,
+      0.0,
+      0.7026216960310943,
+      0.7115635967827392
+    ]
+  },
+  "note": "公开地图严格使用任务系,T_task_map=I;真值只用于评测",
+  "layout_md5": {
+    "build_blender": "948d6430fe1401f6c878b05b5fdbcb8c",
+    "scene_assets": "fdc4acae0aca3f1be4043e7372a664fe"
+  }
+}

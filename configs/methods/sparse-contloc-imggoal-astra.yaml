@@ -1,0 +1,4 @@
+# M3 sparse-contloc-imggoal-astra:稀图(7.5 m / 150°)+ 导航中每步拿位姿、按位姿推进子目标照片(偏离路线重规划),大模型只看 RGB 走路、宣布终点;模型 OpenAI gpt-6-astra,正式跑走 Flex 档。
+# 数值常量都在 frontier_nav_bench/methods/imggoal_vlm.py 与 frontier_nav_bench/vlm/,这里只选端点。
+method_id: sparse-contloc-imggoal-astra
+endpoint: astra_flex  # 可选 astra 方法:astra_flex / astra / luna_dev(开发,不进表);qwen 方法:qwen

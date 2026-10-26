@@ -1,0 +1,13 @@
+seq/000000.color.jpg 0.000000
+seq/000001.color.jpg 138.000000
+seq/000002.color.jpg 314.000000
+seq/000003.color.jpg 443.000000
+seq/000004.color.jpg 481.000000
+seq/000005.color.jpg 624.000000
+seq/000006.color.jpg 662.000000
+seq/000007.color.jpg 680.000000
+seq/000008.color.jpg 741.000000
+seq/000009.color.jpg 786.000000
+seq/000010.color.jpg 822.000000
+seq/000011.color.jpg 870.000000
+seq/000012.color.jpg 942.000000

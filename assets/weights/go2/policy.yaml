@@ -1,0 +1,39 @@
+# MoE-CTS v4.2(176k)Go2 盲走策略的输入输出约定。
+# 数值出处:go2_rl_robotlab @28b4516
+#   source/robot_lab/robot_lab/tasks/go2/env_cfg.py(观测、动作、时序)
+#   source/robot_lab/robot_lab/assets/unitree.py(GO2_CFG_UNITREE:默认姿态、kp/kd)
+#   source/robot_lab/robot_lab/tasks/go2/mdp/commands.py(指令范围)
+# nav_loco/nav_loco/go2/mcts_policy.py 的常量和这里一致,单测 test_loco_mcts_policy.py 会核对。
+name: go2_moe_cts_v4.2_176k
+files:
+  jit: go2_moe_cts_176k_0.6984.pt
+  onnx: go2_moe_cts_176k_0.6984.onnx
+sha256:
+  jit: c602e749ac292921e3d6f5b2ab1749c4e4eaa6dbe51f751cce5b669b102d10a2
+  onnx: 93ed62bcca5ddd969da1f35960619005f3d3ae692ff41cde79f20697e9b06641
+control_hz: 50            # decimation 4 × sim.dt 0.005
+pd: {kp: 25.0, kd: 0.5}
+# 策略的关节顺序(按腿排);Isaac 的 dof_names 是按关节类型分组的,要按名字映射
+joint_names: [FL_hip_joint, FL_thigh_joint, FL_calf_joint,
+              FR_hip_joint, FR_thigh_joint, FR_calf_joint,
+              RL_hip_joint, RL_thigh_joint, RL_calf_joint,
+              RR_hip_joint, RR_thigh_joint, RR_calf_joint]
+default_joint_pos: [0.1, 0.8, -1.5, -0.1, 0.8, -1.5,
+                    0.1, 1.0, -1.5, -0.1, 1.0, -1.5]
+observation:
+  frame_dim: 45
+  history_length: 10       # JIT 内部自己存;reset() 清零,接入时用第一帧填满(prime)
+  clip: 100.0
+  terms:                   # 依次拼接,每项乘 scale
+    - {name: base_ang_vel, dim: 3, scale: 0.25}       # 机体系角速度 rad/s
+    - {name: projected_gravity, dim: 3, scale: 1.0}   # 机体系重力单位向量
+    - {name: velocity_commands, dim: 3, scale: 1.0}   # vx vy wz
+    - {name: joint_pos_rel, dim: 12, scale: 1.0}      # q - default
+    - {name: joint_vel_rel, dim: 12, scale: 0.05}
+    - {name: last_action, dim: 12, scale: 1.0}
+action:
+  dim: 12
+  scale: 0.25              # target = default + 0.25 * a
+  clip: 100.0
+# 训练里楼梯 / 障碍地形的指令上限;导航仿真再和 nav_sim.protocol 取交集
+command_range: {vx: [-1.0, 1.0], vy: [-1.0, 1.0], wz: [-1.5, 1.5]}

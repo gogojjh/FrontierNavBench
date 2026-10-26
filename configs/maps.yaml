@@ -1,0 +1,1042 @@
+schema: vnav.maps/1
+camera_forward_m: 0.1582
+defaults:
+  dense: R01_dense
+  sparse: R01_sparse
+routes:
+  R1:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261020-200246-1f8666
+    end_room: lobby
+    shortest_m: 6.65
+    eval: formal
+  R2:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261020-202722-c5ad4d
+    end_room: lounge
+    shortest_m: 8.76
+    eval: formal
+  R3:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261020-224512-3c82d6
+    end_room: restroom_men
+    shortest_m: 17.18
+    eval: formal
+  R4:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261020-201638-900085
+    end_room: meeting_room
+    shortest_m: 17.93
+    eval: formal
+  R5:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261020-202033-d47b6d
+    end_room: open_office
+    shortest_m: 24.84
+    eval: formal
+  R6:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261022-220738-f1fb8e
+    end_room: pond_area
+    shortest_m: 4.95
+    eval: formal
+    scene: env1_garden_outdoor
+  R7:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261022-221118-94b00e
+    end_room: terrace
+    shortest_m: 14.42
+    eval: formal
+    scene: env1_garden_outdoor
+  R8:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261022-221503-21ab25
+    end_room: laundry
+    shortest_m: 26.63
+    eval: formal
+    scene: env1_garden_outdoor
+  R9:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261022-222549-d6943d
+    end_room: hill
+    shortest_m: 20.74
+    eval: formal
+    scene: env1_garden_outdoor
+  R10:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261022-222940-f235d6
+    end_room: driveway
+    shortest_m: 31.12
+    eval: formal
+    scene: env1_garden_outdoor
+  R11:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261022-223845-ed8c91
+    end_room: lobby
+    shortest_m: 6.45
+    eval: formal
+    scene: env3_office_two_floors
+  R12:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261022-223451-8a6c24
+    end_room: meeting_room
+    shortest_m: 8.37
+    eval: formal
+    scene: env3_office_two_floors
+  R13:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261022-225546-19d928
+    end_room: open_office
+    shortest_m: 12.99
+    eval: formal
+    scene: env3_office_two_floors
+  R14:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261022-224632-36491c
+    end_room: open_office
+    shortest_m: 23.42
+    eval: formal
+    scene: env3_office_two_floors
+  R15:
+    session_dir: ${VNAV_DATA_DIR}/scene_metadata/20261022-225927-4bfce3
+    end_room: pantry
+    shortest_m: 26.94
+    eval: formal
+    scene: env3_office_two_floors
+maps:
+  R01_dense:
+    variant: dense
+    role: formal
+    route: 20261020-200246-1f8666
+    source: ${VNAV_DATA_DIR}/maps/R01_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0123526
+    - -0.999924
+    - 0
+    - 12.4994
+    - 0.999924
+    - 0.0123526
+    - 0
+    - 2.58296
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 39f6e2017f06690913ec8512ba3e44ca61db34ea041723aa9fb6e627555b7b5d
+    trav_src_sha256: 92e70d4eaecda1aaa53ae174abdc2cca13cec993d406dd8b72f86fc9f71795e5
+    num_keyframes: 4
+    components:
+      trav: 1
+  R01_sparse:
+    variant: sparse
+    role: formal
+    route: 20261020-200246-1f8666
+    source: ${VNAV_DATA_DIR}/maps/R01_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0123526
+    - -0.999924
+    - 0
+    - 12.4994
+    - 0.999924
+    - 0.0123526
+    - 0
+    - 2.58296
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: affa8b72d11c31db6834df7c7dd1a37f01b294d7d05533df828b3d9bb32b7220
+    trav_src_sha256: ee7c72249a613e4b9a45944f9277fcb70ee82fe21c7b245f24544f95e1a10d23
+    num_keyframes: 2
+    components:
+      trav: 1
+  R02_dense:
+    variant: dense
+    role: formal
+    route: 20261020-202722-c5ad4d
+    source: ${VNAV_DATA_DIR}/maps/R02_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0123562
+    - -0.999924
+    - 0
+    - 12.4994
+    - 0.999924
+    - 0.0123562
+    - 0
+    - 2.58296
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: c12298459916e5acc7a75f68b34f1b75011213c12c3ca0b1764651e5f9f8b094
+    trav_src_sha256: 98bbd54a9eaaf9c1a19444bae74b1284c6da3142ce7504bd70a119f0ea4bcb52
+    num_keyframes: 5
+    components:
+      trav: 1
+  R02_sparse:
+    variant: sparse
+    role: formal
+    route: 20261020-202722-c5ad4d
+    source: ${VNAV_DATA_DIR}/maps/R02_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0123562
+    - -0.999924
+    - 0
+    - 12.4994
+    - 0.999924
+    - 0.0123562
+    - 0
+    - 2.58296
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: d7481a39076f6575c36da8467c7a3c2e361878e85d847d0cfea37421e082ebcf
+    trav_src_sha256: 7df74fc4da2f913895df5b4d1d738c3c0ca0f0ffd740c21682b29e956531b0d7
+    num_keyframes: 2
+    components:
+      trav: 1
+  R03_dense:
+    variant: dense
+    role: formal
+    route: 20261020-224512-3c82d6
+    source: ${VNAV_DATA_DIR}/maps/R03_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: c6eb8ea4a63ff05ab9277d823cc3d73a9194dfc8cfebe08263d7eab1a3064cc0
+    trav_src_sha256: 92eaed1e4d3ce00462406570da17f31ace99c2dd4d36b31bb8193647e7dcf3ee
+    num_keyframes: 10
+    components:
+      trav: 1
+  R03_sparse:
+    variant: sparse
+    role: formal
+    route: 20261020-224512-3c82d6
+    source: ${VNAV_DATA_DIR}/maps/R03_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: d6863ca3a7dd55cefff01205a9021c656e7a1d04554022b8a008f5aa9f9cdd8e
+    trav_src_sha256: 9ae2affdd78346a9f7165831d6a11e24b9ab71dc2ffe8785c85868731bd6cbce
+    num_keyframes: 3
+    components:
+      trav: 1
+  R04_dense:
+    variant: dense
+    role: formal
+    route: 20261020-201638-900085
+    source: ${VNAV_DATA_DIR}/maps/R04_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0123594
+    - -0.999924
+    - 0
+    - 12.4994
+    - 0.999924
+    - 0.0123594
+    - 0
+    - 2.58296
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 43167799e463417ddebec3aed6eac913f3663644252f1a062fb7cf2b58149c24
+    trav_src_sha256: 341180abe8f70f52d767fd37f11363c69562cbb72caee47463ac1d0e2cce9a89
+    num_keyframes: 8
+    components:
+      trav: 1
+  R04_sparse:
+    variant: sparse
+    role: formal
+    route: 20261020-201638-900085
+    source: ${VNAV_DATA_DIR}/maps/R04_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0123594
+    - -0.999924
+    - 0
+    - 12.4994
+    - 0.999924
+    - 0.0123594
+    - 0
+    - 2.58296
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 5801507b4d4e9a39aea710bad8930786a0663ae03e86de8631ac1bfbdb235f9f
+    trav_src_sha256: 00a8ccafde8645ecc8f8444845efdc6e772cb9a7fa5a5a0103356374f6e4cdd7
+    num_keyframes: 3
+    components:
+      trav: 1
+  R05_dense:
+    variant: dense
+    role: formal
+    route: 20261020-202033-d47b6d
+    source: ${VNAV_DATA_DIR}/maps/R05_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.012357
+    - -0.999924
+    - 0
+    - 12.4994
+    - 0.999924
+    - 0.012357
+    - 0
+    - 2.58296
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: f7311423eb162c4d08b2bd62fc64c4b494b01d727dc17b0a1e41c2f217550933
+    trav_src_sha256: c6019724b1f53cb55e0092a0e87831f8145018d00c6681cca70030c2e32a0f30
+    num_keyframes: 11
+    components:
+      trav: 1
+  R05_sparse:
+    variant: sparse
+    role: formal
+    route: 20261020-202033-d47b6d
+    source: ${VNAV_DATA_DIR}/maps/R05_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.012357
+    - -0.999924
+    - 0
+    - 12.4994
+    - 0.999924
+    - 0.012357
+    - 0
+    - 2.58296
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 37cc790509ddbb78adb333b2ae1012ed0d319b1a509ef3e184b3587b00018957
+    trav_src_sha256: baf548bb1467dcbe22d261f7b62ef596502e33abe6051a3f1989ad5f9c212852
+    num_keyframes: 4
+    components:
+      trav: 1
+  R06_dense:
+    variant: dense
+    role: formal
+    route: 20261022-220738-f1fb8e
+    scene: env1_garden_outdoor
+    source: ${VNAV_DATA_DIR}/maps/R06_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0126462
+    - -0.99992
+    - 0
+    - 5.74997
+    - 0.99992
+    - 0.0126462
+    - 0
+    - 1.58214
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 022d86e2229c5da7f3bfa950d45614bfb2a1e80afeb9d0604938723780d0f8a8
+    trav_src_sha256: ae152f81d671736fd7254aa59826f95a0d84e92c0fa1185da3c434d56fdcde25
+    num_keyframes: 3
+    components:
+      trav: 1
+  R06_sparse:
+    variant: sparse
+    role: formal
+    route: 20261022-220738-f1fb8e
+    scene: env1_garden_outdoor
+    source: ${VNAV_DATA_DIR}/maps/R06_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0126462
+    - -0.99992
+    - 0
+    - 5.74997
+    - 0.99992
+    - 0.0126462
+    - 0
+    - 1.58214
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: e799837260cb06f8aa6bb5a252c8e75954c6713250b5397b749a0228895e4aed
+    trav_src_sha256: ad5bb7b906e8d9d9eb793e7733ddbc725aaea651542ed668a04c0c162dcd2638
+    num_keyframes: 2
+    components:
+      trav: 1
+  R07_dense:
+    variant: dense
+    role: formal
+    route: 20261022-221118-94b00e
+    scene: env1_garden_outdoor
+    source: ${VNAV_DATA_DIR}/maps/R07_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0126487
+    - -0.99992
+    - 0
+    - 5.74997
+    - 0.99992
+    - 0.0126487
+    - 0
+    - 1.58214
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 8fd225038b005b8db99194e0e27113f0d530608eaef1315451c20c437ade61d4
+    trav_src_sha256: 596d2c12d1db934eff80e87b8f24e67855b122876ec913eef436c739ea9e68c4
+    num_keyframes: 6
+    components:
+      trav: 1
+  R07_sparse:
+    variant: sparse
+    role: formal
+    route: 20261022-221118-94b00e
+    scene: env1_garden_outdoor
+    source: ${VNAV_DATA_DIR}/maps/R07_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0126487
+    - -0.99992
+    - 0
+    - 5.74997
+    - 0.99992
+    - 0.0126487
+    - 0
+    - 1.58214
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 0fc8fec67a53084d0f2e2643116cefb7c4ba4c4745f1197a20695c6f2ec1f8ca
+    trav_src_sha256: 152dfb3295cb8e426f81b22c91844fb1cd78ee60b364b453a30154c1319fc878
+    num_keyframes: 3
+    components:
+      trav: 1
+  R08_dense:
+    variant: dense
+    role: formal
+    route: 20261022-221503-21ab25
+    scene: env1_garden_outdoor
+    source: ${VNAV_DATA_DIR}/maps/R08_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0126455
+    - -0.99992
+    - 0
+    - 5.74997
+    - 0.99992
+    - 0.0126455
+    - 0
+    - 1.58214
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 8dd1e3930c765aea7ee7a58d304093f0bb7b5bc53f743a6ff0fc4d4cf5bb6eab
+    trav_src_sha256: 553f9263f5a799a08dcac07b322220acd1e9d4fd81381c6786b361edfc422082
+    num_keyframes: 11
+    components:
+      trav: 1
+  R08_sparse:
+    variant: sparse
+    role: formal
+    route: 20261022-221503-21ab25
+    scene: env1_garden_outdoor
+    source: ${VNAV_DATA_DIR}/maps/R08_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0126455
+    - -0.99992
+    - 0
+    - 5.74997
+    - 0.99992
+    - 0.0126455
+    - 0
+    - 1.58214
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 608c3f11c2a202335d69314a4425115d60b4f702648615e074d9fb1a6f642e1b
+    trav_src_sha256: 94c10ab3ee62770c4e303c3e5ad499162c72c8b97557391f837bfb051d5b4f09
+    num_keyframes: 4
+    components:
+      trav: 1
+  R09_dense:
+    variant: dense
+    role: formal
+    route: 20261022-222549-d6943d
+    scene: env1_garden_outdoor
+    source: ${VNAV_DATA_DIR}/maps/R09_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0126485
+    - -0.99992
+    - 0
+    - 5.74997
+    - 0.99992
+    - 0.0126485
+    - 0
+    - 1.58214
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 933f2c450c7debbdb7fd9afe9f6d86fd05f019aa126ea474e34644e5a508058f
+    trav_src_sha256: a148bdbbfa41420a4a96051dcabae85aeebcfcf14294e3ea4f97b9ac1738f5d8
+    num_keyframes: 8
+    components:
+      trav: 1
+  R09_sparse:
+    variant: sparse
+    role: formal
+    route: 20261022-222549-d6943d
+    scene: env1_garden_outdoor
+    source: ${VNAV_DATA_DIR}/maps/R09_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0126485
+    - -0.99992
+    - 0
+    - 5.74997
+    - 0.99992
+    - 0.0126485
+    - 0
+    - 1.58214
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: a1970c6f02734067e52e93bb276d125c6e8d453d551df34b2fb4a26d896aa0f5
+    trav_src_sha256: ff70b89e28c303ae08b850271ba9d2fed873045477229c9edd545cf3bde2a2c4
+    num_keyframes: 4
+    components:
+      trav: 1
+  R10_dense:
+    variant: dense
+    role: formal
+    route: 20261022-222940-f235d6
+    scene: env1_garden_outdoor
+    source: ${VNAV_DATA_DIR}/maps/R10_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0126495
+    - -0.99992
+    - 0
+    - 5.74997
+    - 0.99992
+    - 0.0126495
+    - 0
+    - 1.58214
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: a6b8ba70e4ea88c1885568aeda71846c4c5e3a22b559dc4936aa597e882a108e
+    trav_src_sha256: 810dce438f9ba53863802a150b8f38b6d63635be9443131fc78ed3d316accd6c
+    num_keyframes: 11
+    components:
+      trav: 1
+  R10_sparse:
+    variant: sparse
+    role: formal
+    route: 20261022-222940-f235d6
+    scene: env1_garden_outdoor
+    source: ${VNAV_DATA_DIR}/maps/R10_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0126495
+    - -0.99992
+    - 0
+    - 5.74997
+    - 0.99992
+    - 0.0126495
+    - 0
+    - 1.58214
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 6dae347e6efa12f41f4bc982be1dc53d97acb181126eb41090f847ce59e5d0d1
+    trav_src_sha256: 97dbe0bb83afdc632d2934fcdb18a925da18b823a72061f33b6bf58be17d2f26
+    num_keyframes: 5
+    components:
+      trav: 1
+  R11_dense:
+    variant: dense
+    role: formal
+    route: 20261022-223845-ed8c91
+    scene: env3_office_two_floors
+    source: ${VNAV_DATA_DIR}/maps/R11_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0102931
+    - -0.999947
+    - 0
+    - 8.59954
+    - 0.999947
+    - 0.0102931
+    - 0
+    - 3.38268
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 11bacb72f5d7f6fc27d6bbcb88ac1a2f8009c2a61264570f7b1cbc3917fc9a95
+    trav_src_sha256: ba8998beb615f41f22af85e2691d6eff734f5c82a7a41d56386976f5597fd874
+    num_keyframes: 4
+    components:
+      trav: 1
+  R11_sparse:
+    variant: sparse
+    role: formal
+    route: 20261022-223845-ed8c91
+    scene: env3_office_two_floors
+    source: ${VNAV_DATA_DIR}/maps/R11_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0102931
+    - -0.999947
+    - 0
+    - 8.59954
+    - 0.999947
+    - 0.0102931
+    - 0
+    - 3.38268
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 19257056722a717a1d913d9379baff417734ebba9063d631ef744aa9148b3d85
+    trav_src_sha256: 1f1f6f6f312b46840fec5cb723a26cf63b65b64515c61bd8bcd49c1cbf9aa8f6
+    num_keyframes: 2
+    components:
+      trav: 1
+  R12_dense:
+    variant: dense
+    role: formal
+    route: 20261022-223451-8a6c24
+    scene: env3_office_two_floors
+    source: ${VNAV_DATA_DIR}/maps/R12_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0102931
+    - -0.999947
+    - 0
+    - 8.59954
+    - 0.999947
+    - 0.0102931
+    - 0
+    - 3.38268
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: a531c6374536e82c2e8a577497fa75911984b6b2414d7145012d1a8e89e9ae3d
+    trav_src_sha256: 00264e77b93af9ddeab95faf10fe4180bde0fce5562efdd7d787380d32b339af
+    num_keyframes: 6
+    components:
+      trav: 1
+  R12_sparse:
+    variant: sparse
+    role: formal
+    route: 20261022-223451-8a6c24
+    scene: env3_office_two_floors
+    source: ${VNAV_DATA_DIR}/maps/R12_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0102931
+    - -0.999947
+    - 0
+    - 8.59954
+    - 0.999947
+    - 0.0102931
+    - 0
+    - 3.38268
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: f2261db3e78524a5b9e7e15357b807eacb93280c9af716b33ef2c60e5e78d5c0
+    trav_src_sha256: ece7de984cbff70970b7f94be6b5dd6bdc202af832f8f9367a950594cebb9871
+    num_keyframes: 2
+    components:
+      trav: 1
+  R13_dense:
+    variant: dense
+    role: formal
+    route: 20261022-225546-19d928
+    scene: env3_office_two_floors
+    source: ${VNAV_DATA_DIR}/maps/R13_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0102934
+    - -0.999947
+    - 0
+    - 8.59954
+    - 0.999947
+    - 0.0102934
+    - 0
+    - 3.38268
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: d77d6e1dcd7e385357538a7962c159a8a64511ebc31171f0a6e3ae4791b44d40
+    trav_src_sha256: e824573764d3f8a31fd92707cb15c1cf06b90ba1177c659969d69bd8e1d280c1
+    num_keyframes: 5
+    components:
+      trav: 1
+  R13_sparse:
+    variant: sparse
+    role: formal
+    route: 20261022-225546-19d928
+    scene: env3_office_two_floors
+    source: ${VNAV_DATA_DIR}/maps/R13_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0102934
+    - -0.999947
+    - 0
+    - 8.59954
+    - 0.999947
+    - 0.0102934
+    - 0
+    - 3.38268
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: dc17238028dca5d4d548b7322fb262ef9b97402f2c5f5843774b6c3ceaad04e0
+    trav_src_sha256: db496628f5f6c23aa949aa1a63c399c38196586df0ffef9feedf4df3df87e5ee
+    num_keyframes: 3
+    components:
+      trav: 1
+  R14_dense:
+    variant: dense
+    role: formal
+    route: 20261022-224632-36491c
+    scene: env3_office_two_floors
+    source: ${VNAV_DATA_DIR}/maps/R14_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0102929
+    - -0.999947
+    - 0
+    - 8.59954
+    - 0.999947
+    - 0.0102929
+    - 0
+    - 3.38268
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 2941c8fb704ca4174f6ced7e940f110a1db61e9615851c1e602b7f3d44f24050
+    trav_src_sha256: 92e0187058f156689f4677a9966e7d2214e057c71fd6b13d0892fea37b5fc6df
+    num_keyframes: 10
+    components:
+      trav: 1
+  R14_sparse:
+    variant: sparse
+    role: formal
+    route: 20261022-224632-36491c
+    scene: env3_office_two_floors
+    source: ${VNAV_DATA_DIR}/maps/R14_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0102929
+    - -0.999947
+    - 0
+    - 8.59954
+    - 0.999947
+    - 0.0102929
+    - 0
+    - 3.38268
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: ca94b115574272233a53938af7a1b789ad6513afc428d18944f742c7a69a4675
+    trav_src_sha256: 4c7494263e3a9a38c6b7418078cad71010acaf937812a9988331aa6a04970dff
+    num_keyframes: 4
+    components:
+      trav: 1
+  R15_dense:
+    variant: dense
+    role: formal
+    route: 20261022-225927-4bfce3
+    scene: env3_office_two_floors
+    source: ${VNAV_DATA_DIR}/maps/R15_dense
+    keyframe_thresh:
+      trans_m: 3
+      rot_deg: 45
+    edge_type: trav
+    map_to_world:
+    - 0.0102953
+    - -0.999947
+    - 0
+    - 8.59954
+    - 0.999947
+    - 0.0102953
+    - 0
+    - 3.38268
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 5d350af7b49fa1ac8800356ebd65b69588ad974eb7bb4a00890b15f8f64167cd
+    trav_src_sha256: 8887157f00bbaa952f67d4dd7b93592df06c75e0790e41f4c532d26a627650f9
+    num_keyframes: 13
+    components:
+      trav: 1
+  R15_sparse:
+    variant: sparse
+    role: formal
+    route: 20261022-225927-4bfce3
+    scene: env3_office_two_floors
+    source: ${VNAV_DATA_DIR}/maps/R15_sparse
+    keyframe_thresh:
+      trans_m: 9
+      rot_deg: 120
+    edge_type: trav
+    map_to_world:
+    - 0.0102953
+    - -0.999947
+    - 0
+    - 8.59954
+    - 0.999947
+    - 0.0102953
+    - 0
+    - 3.38268
+    - 0
+    - 0
+    - 1
+    - 0
+    - 0
+    - 0
+    - 0
+    - 1
+    view_sha256: 388bcee120986f4d37888281d7a7eb4473376cef01d9beffbca47b387ec4b40e
+    trav_src_sha256: 9d51335bd9298b845f449d0e3a14a3a12ac7ab212c541ad38d7d356c0cbb3955
+    num_keyframes: 5
+    components:
+      trav: 1

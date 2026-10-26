@@ -1,0 +1,21 @@
+{
+  "files": {
+    "episodes.json": "97d32ea14497e9e40b6ad12aeb38794a39c15296eedd838cbceed7d1c7525540",
+    "goal_ep_3359183093.depth.png": "10a0b0dd7f4be6a062479675fe0566fcbb0be9b096f66f2a10dd44453568ad79",
+    "goal_ep_3359183093.jpg": "72d8bc5d24de2c2d0d978325a741e370f03e1c4405a62eccc1400d904b4e0ddd",
+    "goal_ep_9d569bc53c.depth.png": "afc88a7d3b47933aaf43855b47ffd0f55ad82e764b1edc47af453e03260d1820",
+    "goal_ep_9d569bc53c.jpg": "ced1915bead1cd9ac4b33c3fcad0326bd7c84a71e92a6a537b587f6bd28db749",
+    "goal_ep_bd5d914bd9.depth.png": "b90331bef47e0bf3d0183fc170703dab10929ae6102ed34bcdf0df50d209b894",
+    "goal_ep_bd5d914bd9.jpg": "20fa538bb462123da28696d24638101410b29b390ea4976264cbb6e0f4f2afa3",
+    "goal_ep_ca6bb2ed47.depth.png": "6ba144b4b6cd0a5dfab088e40ceaa6336e20934b0d86849eff84c4438071928e",
+    "goal_ep_ca6bb2ed47.jpg": "d2ea8096b379a02a261e92d93297f89a6847a7a4f961e1388f692c18e850b6be",
+    "goal_ep_e713f88bd4.depth.png": "d5829a27a4e68b120cd7cb285401e880866f5a765deb29c461c20decc9f04513",
+    "goal_ep_e713f88bd4.jpg": "9ff84610d2c2994b96988353a583f19309c486bb999c5c26b6c68bcfa96387dd"
+  },
+  "meta": {
+    "episodes": 5,
+    "name": "env0_test_v3"
+  },
+  "parent_sha256": null,
+  "schema": "vnav.frozen_dir/1"
+}

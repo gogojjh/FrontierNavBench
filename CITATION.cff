@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite this software repository."
+type: software
+title: "FrontierNavBench: Comparing GPT-6 Astra Image-Goal Navigation with Map-Based Baselines"
+authors:
+  - family-names: Jiao
+    given-names: Jianhao
+repository-code: "https://github.com/gogojjh/FrontierNavBench"
+url: "https://github.com/gogojjh/FrontierNavBench"
+license: MIT

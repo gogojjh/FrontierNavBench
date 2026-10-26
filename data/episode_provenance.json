@@ -1,0 +1,116 @@
+[
+  {
+    "change": "Route source metadata now points to the bundled final evaluation maps. Original construction map IDs/hashes are retained here. Episode numeric values and goal image bytes are unchanged.",
+    "episode_set": "env0_test_v3",
+    "map_bindings": [
+      {
+        "construction_map_id": "R1_kf3m45",
+        "construction_view_sha256": "39f6e2017f06690913ec8512ba3e44ca61db34ea041723aa9fb6e627555b7b5d",
+        "evaluation_map_id": "R01_dense",
+        "route": "20261020-200246-1f8666"
+      },
+      {
+        "construction_map_id": "R2_kf3m45",
+        "construction_view_sha256": "c12298459916e5acc7a75f68b34f1b75011213c12c3ca0b1764651e5f9f8b094",
+        "evaluation_map_id": "R02_dense",
+        "route": "20261020-202722-c5ad4d"
+      },
+      {
+        "construction_map_id": "R3_kf3m45",
+        "construction_view_sha256": "c6eb8ea4a63ff05ab9277d823cc3d73a9194dfc8cfebe08263d7eab1a3064cc0",
+        "evaluation_map_id": "R03_dense",
+        "route": "20261020-224512-3c82d6"
+      },
+      {
+        "construction_map_id": "R4_kf3m45",
+        "construction_view_sha256": "43167799e463417ddebec3aed6eac913f3663644252f1a062fb7cf2b58149c24",
+        "evaluation_map_id": "R04_dense",
+        "route": "20261020-201638-900085"
+      },
+      {
+        "construction_map_id": "R5_kf3m45",
+        "construction_view_sha256": "f7311423eb162c4d08b2bd62fc64c4b494b01d727dc17b0a1e41c2f217550933",
+        "evaluation_map_id": "R05_dense",
+        "route": "20261020-202033-d47b6d"
+      }
+    ],
+    "original_episodes_sha256": "4b1555fcbc42e0f93db5c2ea5e8b25f1bf9809388ac670481122c7ac3c66cd88",
+    "original_manifest_sha256": "ee31a76686f2635491fb614e33ca8ba364286d629ccb106e5665bfa5612586c5"
+  },
+  {
+    "change": "Route source metadata now points to the bundled final evaluation maps. Original construction map IDs/hashes are retained here. Episode numeric values and goal image bytes are unchanged.",
+    "episode_set": "env1_test_v1",
+    "map_bindings": [
+      {
+        "construction_map_id": "route_20261022-220738-f1fb8e_kf3m45",
+        "construction_view_sha256": "022d86e2229c5da7f3bfa950d45614bfb2a1e80afeb9d0604938723780d0f8a8",
+        "evaluation_map_id": "R06_dense",
+        "route": "20261022-220738-f1fb8e"
+      },
+      {
+        "construction_map_id": "route_20261022-221118-94b00e_kf3m45",
+        "construction_view_sha256": "8fd225038b005b8db99194e0e27113f0d530608eaef1315451c20c437ade61d4",
+        "evaluation_map_id": "R07_dense",
+        "route": "20261022-221118-94b00e"
+      },
+      {
+        "construction_map_id": "route_20261022-221503-21ab25_kf3m45",
+        "construction_view_sha256": "8dd1e3930c765aea7ee7a58d304093f0bb7b5bc53f743a6ff0fc4d4cf5bb6eab",
+        "evaluation_map_id": "R08_dense",
+        "route": "20261022-221503-21ab25"
+      },
+      {
+        "construction_map_id": "route_20261022-222549-d6943d_kf3m45",
+        "construction_view_sha256": "933f2c450c7debbdb7fd9afe9f6d86fd05f019aa126ea474e34644e5a508058f",
+        "evaluation_map_id": "R09_dense",
+        "route": "20261022-222549-d6943d"
+      },
+      {
+        "construction_map_id": "route_20261022-222940-f235d6_kf3m45",
+        "construction_view_sha256": "a6b8ba70e4ea88c1885568aeda71846c4c5e3a22b559dc4936aa597e882a108e",
+        "evaluation_map_id": "R10_dense",
+        "route": "20261022-222940-f235d6"
+      }
+    ],
+    "original_episodes_sha256": "6d8a5df52b8d57d7d548cc90b4ff05f1d26625546353af48a04afb85e2d4c690",
+    "original_manifest_sha256": "b66dcd7c9ba151552b479b9d05ab2a02b4995675a78dfc9cd4b41c09cf5dd5b0"
+  },
+  {
+    "change": "Route source metadata now points to the bundled final evaluation maps. Original construction map IDs/hashes are retained here. Episode numeric values and goal image bytes are unchanged.",
+    "episode_set": "env3_test_v1",
+    "map_bindings": [
+      {
+        "construction_map_id": "route_20261022-223845-ed8c91_kf3m45",
+        "construction_view_sha256": "11bacb72f5d7f6fc27d6bbcb88ac1a2f8009c2a61264570f7b1cbc3917fc9a95",
+        "evaluation_map_id": "R11_dense",
+        "route": "20261022-223845-ed8c91"
+      },
+      {
+        "construction_map_id": "route_20261022-223451-8a6c24_kf3m45",
+        "construction_view_sha256": "a531c6374536e82c2e8a577497fa75911984b6b2414d7145012d1a8e89e9ae3d",
+        "evaluation_map_id": "R12_dense",
+        "route": "20261022-223451-8a6c24"
+      },
+      {
+        "construction_map_id": "route_20261022-225546-19d928_kf3m45",
+        "construction_view_sha256": "632a9ee11a50415fb1d16406e7c8cc67f37024205038d85650f69c80ee835dec",
+        "evaluation_map_id": "R13_dense",
+        "route": "20261022-225546-19d928"
+      },
+      {
+        "construction_map_id": "route_20261022-224632-36491c_kf3m45",
+        "construction_view_sha256": "2941c8fb704ca4174f6ced7e940f110a1db61e9615851c1e602b7f3d44f24050",
+        "evaluation_map_id": "R14_dense",
+        "route": "20261022-224632-36491c"
+      },
+      {
+        "construction_map_id": "route_20261022-225927-4bfce3_kf3m45",
+        "construction_view_sha256": "f77f045cfd34aba2750f60d956905b8c406dbeae3cd68b51ead96b057a5efd91",
+        "evaluation_map_id": "R15_dense",
+        "route": "20261022-225927-4bfce3"
+      }
+    ],
+    "original_episodes_sha256": "83d8a797f2e3a6a6836e31bacb8631ae7127251f2d92c2c5c6179aaefe20d50e",
+    "original_manifest_sha256": "04732a01521b207cd0402f405c65ff658665fecb8b9e716a2dee2e793d60c996"
+  }
+]

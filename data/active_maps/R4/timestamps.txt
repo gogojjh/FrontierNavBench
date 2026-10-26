@@ -1,0 +1,3 @@
+seq/000000.color.jpg 201.000000
+seq/000001.color.jpg 380.000000
+seq/000002.color.jpg 493.000000

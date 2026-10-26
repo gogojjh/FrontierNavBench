@@ -1,0 +1,8 @@
+# Infrastructure settings; override endpoints using .env or environment variables.
+desktop_hosts: [localhost]
+# Empty means this standalone repository. Remote execution: VNAV_DESKTOP_REPO.
+desktop_ws: null
+slots:
+  s1: 6559
+  s2: 7559
+min_free_gb: 10  # Reserve space for recorded RGB-D and campaign outputs.
