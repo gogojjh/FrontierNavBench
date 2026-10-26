@@ -17,7 +17,7 @@ evaluation = [
     "opencv-python-headless>=4.8,<4.12", "matplotlib>=3.6,<3.8",
     "requests>=2.28,<3", "Pillow>=9,<10",
 ]
-sru = ["onnxruntime>=1.17,<1.21", "opencv-python-headless>=4.8,<4.12"]
+sru = ["onnxruntime>=1.17,<1.25", "opencv-python-headless>=4.8,<4.12"]
 dev = ["pytest>=7,<8.4", "ruff==0.16.9"]
 
 [project.urls]
