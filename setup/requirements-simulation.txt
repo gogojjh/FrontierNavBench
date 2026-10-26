@@ -1,5 +1,5 @@
 # Isaac Sim 5.1 requires Python 3.11 on a supported NVIDIA GPU host.
 --extra-index-url https://pypi.nvidia.com
 isaacsim[all,extscache]==5.1.0
-opencv-python-headless>=4.8,<4.12
+opencv-python-headless>=4.8,<5.1
 numpy<2

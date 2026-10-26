@@ -1,6 +1,6 @@
 # Bounds retain Python 3.8 compatibility; this is not a fully locked environment.
 numpy>=1.23,<1.25
-opencv-python-headless>=4.8,<4.12
+opencv-python-headless>=4.8,<5.1
 matplotlib>=3.6,<3.8
 requests>=2.28,<3
 Pillow>=9,<10

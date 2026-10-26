@@ -1,4 +1,4 @@
 # CPU inference sidecar; separate from Isaac's Python interpreter.
 numpy>=1.23,<2
 onnxruntime==1.20.1
-opencv-python-headless>=4.8,<4.12
+opencv-python-headless>=4.8,<5.1
