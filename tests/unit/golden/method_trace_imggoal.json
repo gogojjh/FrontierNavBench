@@ -1,0 +1,1032 @@
+{
+ "m2_pose": {
+  "actions": [
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      3,
+      9
+     ],
+     "subgoal_kf": 2
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      4,
+      9
+     ],
+     "subgoal_kf": 3
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      5,
+      9
+     ],
+     "subgoal_kf": 4
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      6,
+      9
+     ],
+     "subgoal_kf": 5
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      7,
+      9
+     ],
+     "subgoal_kf": 6
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      8,
+      9
+     ],
+     "subgoal_kf": 7
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      9,
+      9
+     ],
+     "subgoal_kf": 8
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "FINAL_APPROACH",
+     "status": "ok",
+     "subgoal": null,
+     "subgoal_kf": null
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "phase": "DONE",
+     "status": "system_done"
+    },
+    "done": true,
+    "note": "pose: within tolerance"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {},
+    "done": true,
+    "note": ""
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {},
+    "done": true,
+    "note": ""
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {},
+    "done": true,
+    "note": ""
+   }
+  ],
+  "requests": [
+   "b16c64bdb7d682e0057bac5fab4ed18c0c5899fa22972f8a9cecea1a6297ba5b",
+   "1c9a5bc2d198adb4a7e76713a97f854ce881711baacfb361c1777ae67c1758f3",
+   "73eac5f5ede4684465b6c758a806dbf07ceaac5c987cf23e8aeac806ccfaf7d1",
+   "1e2c6cd1066357a15c4bab012aff5a002e02f075d8e9ac9674c981d888b38299",
+   "21b1c8897e12098c60992a101c9d409270bfd7802c043784dbfe6dcbe65b2ce5",
+   "ee336d7545bd82dd991e0d444414859cc7883981961d5ff1f53129e014cbe61f",
+   "8129cb4720a597afe110d655023c5cc67e8302e164d7db46b258cc6a5d66326e",
+   "9f5a45fde1289dcb4487c36c541efb7da4855031e5fb75bc3766b298cee063ba"
+  ],
+  "summary": {
+   "cache_hit_ratio": 0.0,
+   "done_judge": "pose",
+   "endpoint": {
+    "cache": {
+     "key": "vnav_benchmark_v1",
+     "mode": "explicit",
+     "ttl": "30m"
+    },
+    "endpoint": "astra_flex",
+    "max_output_tokens": 3000,
+    "model": "gpt-6-astra",
+    "service_tier": "flex",
+    "structured": "json_schema_strict",
+    "temperature": null,
+    "thinking": {
+     "reasoning_effort": "low",
+     "verbosity": "low"
+    },
+    "thinking_note": "astra cannot disable thinking, lowest effort 'low' used; Qwen thinking disabled",
+    "wire": "responses"
+   },
+   "final_phase": "DONE",
+   "fingerprint": "sha256:00106881f1c6a91b476b15ec847cf643b79df076d272046c9f8c5b54204c4591",
+   "latency": {
+    "server_ms": {
+     "max": 0.0,
+     "median": 0.0,
+     "p95": 0.0
+    },
+    "vlm_api_s": {
+     "max": 0.01,
+     "median": 0.01,
+     "p95": 0.01
+    }
+   },
+   "memory_truncations": {
+    "memory": 0,
+    "observation": 0
+   },
+   "method_id": "dense-contloc-imggoal-astra",
+   "phase_changes": [
+    {
+     "decision": 0,
+     "phase": "NAVIGATE"
+    },
+    {
+     "decision": 7,
+     "phase": "FINAL_APPROACH"
+    },
+    {
+     "decision": 8,
+     "phase": "DONE"
+    }
+   ],
+   "policy_stats": {
+    "call_failed": 0,
+    "calls": 8,
+    "clamped": 0,
+    "consecutive_call_failed": 0,
+    "decisions": 8,
+    "done": 8,
+    "invalid": 0,
+    "reasks": 0
+   },
+   "progress_judge": "pose",
+   "replans": 0,
+   "route": {
+    "has_map": true,
+    "kf_ids": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ],
+    "route_length_m": 8.0
+   },
+   "self_loc_failed": 0,
+   "subgoal_advances": 8,
+   "termination": "done_by_pose",
+   "usage": {
+    "billed_usd": 0.099575,
+    "cached_tokens": 0,
+    "calls": 8,
+    "input_tokens": 18595,
+    "list_usd": 0.19915,
+    "output_tokens": 264,
+    "reasoning_tokens": 0
+   },
+   "vlm_done_ignored": 8
+  }
+ },
+ "m4_vlm": {
+  "actions": [
+   {
+    "cmd": [
+     0.3,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      1,
+      7
+     ],
+     "subgoal_kf": 2
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.31,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      1,
+      7
+     ],
+     "subgoal_kf": 2
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.32,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      1,
+      7
+     ],
+     "subgoal_kf": 2
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.32999999999999996,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      2,
+      7
+     ],
+     "subgoal_kf": 3
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.33999999999999997,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      2,
+      7
+     ],
+     "subgoal_kf": 3
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.35,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      2,
+      7
+     ],
+     "subgoal_kf": 3
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.36,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      3,
+      7
+     ],
+     "subgoal_kf": 4
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.37,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      3,
+      7
+     ],
+     "subgoal_kf": 4
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.38,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      3,
+      7
+     ],
+     "subgoal_kf": 4
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.39,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      4,
+      7
+     ],
+     "subgoal_kf": 5
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.4,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      4,
+      7
+     ],
+     "subgoal_kf": 5
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.41,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      4,
+      7
+     ],
+     "subgoal_kf": 5
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.3,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.02
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      5,
+      7
+     ],
+     "subgoal_kf": 6
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "NAVIGATE",
+     "status": "ok",
+     "subgoal": [
+      5,
+      7
+     ],
+     "subgoal_kf": 6
+    },
+    "done": true,
+    "note": "x"
+   }
+  ],
+  "requests": [
+   "09f0e518c3b523a17b8cb887323685b9f43a2cf67342ceb8aa4ae9cbf11455c6",
+   "6d1904391f7ace4d10a5afd4dec49efe265e0747930ec0f88c671c3b21ef9d3f",
+   "d7a21f22ad77f815a4c650774322d4220925a41e0e1784529b74d8df68866959",
+   "d7f793c1c8d83e63b40f6e3d769bfc093a6e3b8d6a1c61b36b331905f7855e6f",
+   "78c8c824da68356f612aef29f1d4a14708b83626eef3a913416d994fcd29a608",
+   "96a14dcf24612ddef243b1d73e6a5c359c1acd1da5494d3cf0a4d25f40d62c5f",
+   "9a35bb1cf62ab34b793e0b84da1eb8ef870f8380da2cf9da8e9f48ff3b550d1a",
+   "3f3ba669cfbf83b49652ed8436b719d646543e5fb760e349badce2968b2025f4",
+   "359316f7ab76f5a62c0689f229c512986c1029bd4a33b56245f99f90528e2547",
+   "3438fa97aa16561576a92e2cbd9f8f5b53937cc5d2d34ce308eb6b84256bdb44",
+   "69e45d29854200b8176dfb3fda4d6db022021638c6e455c80f8749683ae1c6e3",
+   "4c7d658c3bd47717c51b22fad8d83b2bee92eb35ef7b56a4d8aa7820e47fd019",
+   "244f7894f3be8e9322f83729a9549355540580e85c75f8255a0d38e8bb613f94",
+   "7e6ff39c7589a1c50202ae4763340951b4009c8d307a6e9543259a4679729cc9",
+   "db184cffef41b0bc0d2b4c0dba46f5fef7bcfb4c61a91431eaa9d12ece1250e8"
+  ],
+  "summary": {
+   "cache_hit_ratio": 0.0,
+   "done_judge": "vlm",
+   "endpoint": {
+    "cache": {
+     "key": "vnav_benchmark_v1",
+     "mode": "explicit",
+     "ttl": "30m"
+    },
+    "endpoint": "astra_flex",
+    "max_output_tokens": 3000,
+    "model": "gpt-6-astra",
+    "service_tier": "flex",
+    "structured": "json_schema_strict",
+    "temperature": null,
+    "thinking": {
+     "reasoning_effort": "low",
+     "verbosity": "low"
+    },
+    "thinking_note": "astra cannot disable thinking, lowest effort 'low' used; Qwen thinking disabled",
+    "wire": "responses"
+   },
+   "final_phase": "DONE",
+   "fingerprint": "sha256:00106881f1c6a91b476b15ec847cf643b79df076d272046c9f8c5b54204c4591",
+   "latency": {
+    "server_ms": {
+     "max": 0.0,
+     "median": 0.0,
+     "p95": 0.0
+    },
+    "vlm_api_s": {
+     "max": 0.02,
+     "median": 0.01,
+     "p95": 0.013499999999999996
+    }
+   },
+   "memory_truncations": {
+    "memory": 0,
+    "observation": 0
+   },
+   "method_id": "dense-initloc-imggoal-astra",
+   "phase_changes": [
+    {
+     "decision": 0,
+     "phase": "NAVIGATE"
+    },
+    {
+     "decision": 13,
+     "phase": "DONE"
+    }
+   ],
+   "policy_stats": {
+    "call_failed": 0,
+    "calls": 15,
+    "clamped": 0,
+    "consecutive_call_failed": 0,
+    "decisions": 14,
+    "done": 1,
+    "invalid": 0,
+    "reasks": 1
+   },
+   "progress_judge": "vlm",
+   "replans": 0,
+   "route": {
+    "has_map": true,
+    "kf_ids": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ],
+    "route_length_m": 8.0
+   },
+   "self_loc_failed": 0,
+   "subgoal_advances": 4,
+   "termination": "done",
+   "usage": {
+    "billed_usd": 0.19702999999999996,
+    "cached_tokens": 0,
+    "calls": 15,
+    "input_tokens": 36981,
+    "list_usd": 0.3940599999999999,
+    "output_tokens": 485,
+    "reasoning_tokens": 0
+   },
+   "vlm_done_ignored": 0
+  }
+ },
+ "m6_nomap": {
+  "actions": [
+   {
+    "cmd": [
+     0.3,
+     0.0,
+     0.5,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "FINAL_APPROACH",
+     "status": "ok",
+     "subgoal": null,
+     "subgoal_kf": null
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.3,
+     0.0,
+     0.5,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "FINAL_APPROACH",
+     "status": "ok",
+     "subgoal": null,
+     "subgoal_kf": null
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.3,
+     0.0,
+     0.5,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "FINAL_APPROACH",
+     "status": "ok",
+     "subgoal": null,
+     "subgoal_kf": null
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.3,
+     0.0,
+     0.5,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "FINAL_APPROACH",
+     "status": "ok",
+     "subgoal": null,
+     "subgoal_kf": null
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.3,
+     0.0,
+     0.5,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "FINAL_APPROACH",
+     "status": "ok",
+     "subgoal": null,
+     "subgoal_kf": null
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.3,
+     0.0,
+     0.5,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "FINAL_APPROACH",
+     "status": "ok",
+     "subgoal": null,
+     "subgoal_kf": null
+    },
+    "done": false,
+    "note": "x"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ],
+    "debug": {
+     "latency": {
+      "retries": 0.0,
+      "server_ms": 0.0,
+      "vlm_api_s": 0.01
+     },
+     "phase": "FINAL_APPROACH",
+     "status": "ok",
+     "subgoal": null,
+     "subgoal_kf": null
+    },
+    "done": true,
+    "note": "x"
+   }
+  ],
+  "requests": [
+   "cd0d2d9b0a15cbc6d365a5894dbf6579bf69c87c5f5c0fac38774854d7c5190c",
+   "240f478c07b31a6597fa6bef8d263a3d3f1b73a6218f919195c890c87617e4c8",
+   "c0496c9cbe4dd34322cec87217aa3fb06e36c6e64aa2ff0193ec9ece387230ea",
+   "50fb589ed10192935ee7f8bea771741ffbbdd0974e66e35bb0697aeb3e010a09",
+   "fa155dfd6d6c9409252a716b55bf383037053856695f8d28d7d4a1f00face593",
+   "38117fdfd123043d341eebe53d363472ed595b62a181882cf17bc902934f9e98",
+   "f2161f2ea7238563f99c0c25dd0c90090f71720ef067559485ceee27ff46f182"
+  ],
+  "summary": {
+   "cache_hit_ratio": 0.0,
+   "done_judge": "vlm",
+   "endpoint": {
+    "cache": {
+     "mode": "implicit"
+    },
+    "endpoint": "qwen",
+    "max_output_tokens": 3000,
+    "model": "qwen3.8-max-0902",
+    "service_tier": "default",
+    "structured": "json_schema",
+    "temperature": 0.0,
+    "thinking": {
+     "enable_thinking": false
+    },
+    "thinking_note": "astra cannot disable thinking, lowest effort 'low' used; Qwen thinking disabled",
+    "wire": "chat"
+   },
+   "final_phase": "DONE",
+   "fingerprint": "sha256:00106881f1c6a91b476b15ec847cf643b79df076d272046c9f8c5b54204c4591",
+   "latency": {
+    "server_ms": {
+     "max": 0.0,
+     "median": 0.0,
+     "p95": 0.0
+    },
+    "vlm_api_s": {
+     "max": 0.01,
+     "median": 0.01,
+     "p95": 0.01
+    }
+   },
+   "memory_truncations": {
+    "memory": 0,
+    "observation": 0
+   },
+   "method_id": "nomap-noloc-imggoal-qwen",
+   "phase_changes": [
+    {
+     "decision": 0,
+     "phase": "FINAL_APPROACH"
+    },
+    {
+     "decision": 6,
+     "phase": "DONE"
+    }
+   ],
+   "policy_stats": {
+    "call_failed": 0,
+    "calls": 7,
+    "clamped": 0,
+    "consecutive_call_failed": 0,
+    "decisions": 7,
+    "done": 1,
+    "invalid": 0,
+    "reasks": 0
+   },
+   "progress_judge": "vlm",
+   "replans": 0,
+   "route": {
+    "has_map": false
+   },
+   "self_loc_failed": 0,
+   "subgoal_advances": 0,
+   "termination": "done",
+   "usage": {
+    "billed_usd": 0.0193284,
+    "cached_tokens": 0,
+    "calls": 7,
+    "input_tokens": 14922,
+    "list_usd": 0.0193284,
+    "output_tokens": 237,
+    "reasoning_tokens": 0
+   },
+   "vlm_done_ignored": 0
+  }
+ }
+}

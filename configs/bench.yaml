@@ -1,0 +1,25 @@
+# Benchmark time budgets, scoring and command limits.
+schema: vnav.bench/1
+run:
+  budget_s: 90.0
+  budget_s_by_scene:
+    env1_garden_outdoor: 90.0
+    env3_office_two_floors: 120.0
+  seed: 20261020
+  act_wall_limit_s: 300.0
+  max_attempts: 3
+  consecutive_infra_break: 3
+  robot: go2
+fairness:
+  vx_min: 0.0
+  vx_max: 0.8
+  vy_max: 0.3
+  wz_max: 0.7
+  hold_quantum_s: 0.1
+  hold_min_s: 0.1
+  hold_max_s: 2.0
+  success_dist_m: 0.5
+  success_yaw_deg: 45.0
+  success_loose_m: 2.0
+  success_loose_yaw_deg: 90.0
+  grid_robot_radius_m: 0.3

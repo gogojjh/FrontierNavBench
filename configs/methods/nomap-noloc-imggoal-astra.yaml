@@ -1,0 +1,4 @@
+# M6 nomap-noloc-imggoal-astra:不给图、不定位,只给终点照片,大模型看图找;模型 OpenAI gpt-6-astra,正式跑走 Flex 档。
+# 数值常量都在 vnav_benchmark/methods/imggoal_vlm.py 与 vnav_benchmark/vlm/,这里只选端点。
+method_id: nomap-noloc-imggoal-astra
+endpoint: astra_flex  # 可选 astra 方法:astra_flex / astra / luna_dev(开发,不进表);qwen 方法:qwen

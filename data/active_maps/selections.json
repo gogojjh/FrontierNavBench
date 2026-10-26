@@ -1,0 +1,266 @@
+{
+  "schema": "vnav.active-map-selections/1",
+  "routes": [
+    {
+      "route": "R1",
+      "map_path": "data/active_maps/R1",
+      "view_sha256": "861c35dcf02ccf7f65826bfafe5ac897096795bf5b8a133a5c847957e56dba10",
+      "selected_ids": [
+        1,
+        7
+      ],
+      "baseline_ids": [
+        0,
+        9
+      ],
+      "candidate_count": 10,
+      "keyframe_count": 2
+    },
+    {
+      "route": "R2",
+      "map_path": "data/active_maps/R2",
+      "view_sha256": "27fed183907e3edbc657bb3e314c734c6b9e712da2265e02954a10c59476a1cc",
+      "selected_ids": [
+        2,
+        8
+      ],
+      "baseline_ids": [
+        0,
+        9
+      ],
+      "candidate_count": 10,
+      "keyframe_count": 2
+    },
+    {
+      "route": "R3",
+      "map_path": "data/active_maps/R3",
+      "view_sha256": "c18e84d51941f07ef4d3f29c944cf948ce491e8e0fc836f8017e8afc521f8530",
+      "selected_ids": [
+        4,
+        13,
+        18
+      ],
+      "baseline_ids": [
+        0,
+        10,
+        22
+      ],
+      "candidate_count": 23,
+      "keyframe_count": 3
+    },
+    {
+      "route": "R4",
+      "map_path": "data/active_maps/R4",
+      "view_sha256": "a44ffda81ca5190dc368e59d046600ce9bc5039744423aa19d7b2343c7535a21",
+      "selected_ids": [
+        4,
+        13,
+        18
+      ],
+      "baseline_ids": [
+        0,
+        11,
+        19
+      ],
+      "candidate_count": 20,
+      "keyframe_count": 3
+    },
+    {
+      "route": "R5",
+      "map_path": "data/active_maps/R5",
+      "view_sha256": "e332542fe6cf60aa26718344a0c9d9b0358a630df7da79ef98000ff253ba543c",
+      "selected_ids": [
+        3,
+        10,
+        17,
+        24
+      ],
+      "baseline_ids": [
+        0,
+        11,
+        19,
+        27
+      ],
+      "candidate_count": 28,
+      "keyframe_count": 4
+    },
+    {
+      "route": "R6",
+      "map_path": "data/active_maps/R6",
+      "view_sha256": "cb3527f305be0b5c397ab51ba70fd7524634f92611f23c299c51df43dff51682",
+      "selected_ids": [
+        0,
+        4
+      ],
+      "baseline_ids": [
+        0,
+        5
+      ],
+      "candidate_count": 6,
+      "keyframe_count": 2
+    },
+    {
+      "route": "R7",
+      "map_path": "data/active_maps/R7",
+      "view_sha256": "621d649013254bcdba290405f295ccd0310856aee73068a942b79139bd088e44",
+      "selected_ids": [
+        2,
+        8,
+        13
+      ],
+      "baseline_ids": [
+        0,
+        9,
+        14
+      ],
+      "candidate_count": 15,
+      "keyframe_count": 3
+    },
+    {
+      "route": "R8",
+      "map_path": "data/active_maps/R8",
+      "view_sha256": "0c4d6ee72f6f821c35826d66f9e57c820d760d7ea2f5285ed8fe34ad3849737f",
+      "selected_ids": [
+        4,
+        12,
+        21,
+        25
+      ],
+      "baseline_ids": [
+        0,
+        9,
+        18,
+        26
+      ],
+      "candidate_count": 27,
+      "keyframe_count": 4
+    },
+    {
+      "route": "R9",
+      "map_path": "data/active_maps/R9",
+      "view_sha256": "632b6f13fde635814aa378ae596fc8016c8a783c6ce30a9c9cc9ce2d8d057362",
+      "selected_ids": [
+        3,
+        9,
+        14,
+        19
+      ],
+      "baseline_ids": [
+        0,
+        10,
+        20,
+        21
+      ],
+      "candidate_count": 22,
+      "keyframe_count": 4
+    },
+    {
+      "route": "R10",
+      "map_path": "data/active_maps/R10",
+      "view_sha256": "69bbaae08c156d018dc795971869326579eaec30866946789b024f6e1b1812e3",
+      "selected_ids": [
+        3,
+        9,
+        16,
+        23,
+        28
+      ],
+      "baseline_ids": [
+        0,
+        9,
+        18,
+        27,
+        30
+      ],
+      "candidate_count": 31,
+      "keyframe_count": 5
+    },
+    {
+      "route": "R11",
+      "map_path": "data/active_maps/R11",
+      "view_sha256": "7aa905d0aeb957c3681c79a5557c6186f461fea64c037c25f3abbdd7db920bd4",
+      "selected_ids": [
+        2,
+        6
+      ],
+      "baseline_ids": [
+        0,
+        8
+      ],
+      "candidate_count": 9,
+      "keyframe_count": 2
+    },
+    {
+      "route": "R12",
+      "map_path": "data/active_maps/R12",
+      "view_sha256": "66e640ff552e9c34eff601f1d7d9e88f79196d526a4536b1409b45e61bc21539",
+      "selected_ids": [
+        3,
+        12
+      ],
+      "baseline_ids": [
+        0,
+        12
+      ],
+      "candidate_count": 13,
+      "keyframe_count": 2
+    },
+    {
+      "route": "R13",
+      "map_path": "data/active_maps/R13",
+      "view_sha256": "921f4477e07d039fb1ed035fc5856dc83d20ca4de2d467368ceca542cf4d69b0",
+      "selected_ids": [
+        0,
+        6,
+        10
+      ],
+      "baseline_ids": [
+        0,
+        5,
+        11
+      ],
+      "candidate_count": 12,
+      "keyframe_count": 3
+    },
+    {
+      "route": "R14",
+      "map_path": "data/active_maps/R14",
+      "view_sha256": "b80fa7e7d5ae6a863e780af15ccc2d0cf10057a375a48f5bc8d15261ce6e18a4",
+      "selected_ids": [
+        3,
+        12,
+        19,
+        24
+      ],
+      "baseline_ids": [
+        0,
+        10,
+        16,
+        26
+      ],
+      "candidate_count": 27,
+      "keyframe_count": 4
+    },
+    {
+      "route": "R15",
+      "map_path": "data/active_maps/R15",
+      "view_sha256": "b610f7941be5657281c068d06daf5187b57eda576872246824ba2b34723c31f4",
+      "selected_ids": [
+        2,
+        12,
+        18,
+        23,
+        26
+      ],
+      "baseline_ids": [
+        0,
+        10,
+        15,
+        26,
+        29
+      ],
+      "candidate_count": 30,
+      "keyframe_count": 5
+    }
+  ]
+}

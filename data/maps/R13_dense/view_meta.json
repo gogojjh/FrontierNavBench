@@ -1,0 +1,24 @@
+{
+ "edge_files": [
+  "edges_odom.txt",
+  "edges_covis.txt",
+  "edges_trav.txt"
+ ],
+ "intrinsics": {
+  "cx": 313.99639328062614,
+  "cy": 242.40798895575392,
+  "fx": 295.4847287354609,
+  "fy": 295.6569951196214,
+  "height": 480,
+  "hfov_deg": 94.56186614942497,
+  "width": 640
+ },
+ "keyframe_overrides": [
+  "keyframe.trans_thresh_m=1.0",
+  "keyframe.rot_thresh_deg=30"
+ ],
+ "map_schema_version": "2.2",
+ "num_keyframes": 5,
+ "opennavmap_git_sha": "89030cb51279acc9908fd1824d3d92a6ef8469ac",
+ "schema": "vnav.mapview/1"
+}

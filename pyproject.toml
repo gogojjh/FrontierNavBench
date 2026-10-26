@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vnav_benchmark"
+version = "0.2.0"
+description = "Seven-method image-goal navigation benchmark for Go2 in Isaac Sim"
+readme = "README.md"
+license = {file = "LICENSE"}
+# Evaluation uses Python 3.8; Isaac Sim uses Python 3.11. Shared code targets 3.8.
+requires-python = ">=3.8"
+dependencies = ["numpy", "pyzmq>=22", "msgpack>=1.0", "pyyaml>=5.3", "jsonschema>=4"]
+
+[project.optional-dependencies]
+evaluation = [
+    "opencv-python-headless>=4.8,<4.12", "matplotlib>=3.6,<3.8",
+    "requests>=2.28,<3", "Pillow>=9,<10",
+]
+sru = ["onnxruntime>=1.17,<1.21", "opencv-python-headless>=4.8,<4.12"]
+dev = ["pytest>=7,<8.4", "ruff==0.16.9"]
+
+[project.urls]
+Repository = "https://github.com/gogojjh/vnav_benchmark"
+Issues = "https://github.com/gogojjh/vnav_benchmark/issues"
+
+[tool.pytest.ini_options]
+testpaths = ["tests/unit"]
+pythonpath = [".", "tests/unit"]
+
+[tool.setuptools.packages.find]
+include = ["vnav_benchmark*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py38"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP"]
+# Keep typing.List / Optional annotations compatible with Python 3.8.
+ignore = ["UP006", "UP007", "UP035", "UP045"]
+
+[tool.ruff.lint.per-file-ignores]
+"third_party/**" = ["ALL"]

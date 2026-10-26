@@ -1,0 +1,4 @@
+# M5 sparse-initloc-imggoal-qwen:稀图(7.5 m / 150°)+ 开头定位一次 + 沿路线给子目标照片,大模型看图走、看图判到没到;模型 DashScope qwen3.8-max-0902。
+# 数值常量都在 vnav_benchmark/methods/imggoal_vlm.py 与 vnav_benchmark/vlm/,这里只选端点。
+method_id: sparse-initloc-imggoal-qwen
+endpoint: qwen  # 可选 astra 方法:astra_flex / astra / luna_dev(开发,不进表);qwen 方法:qwen

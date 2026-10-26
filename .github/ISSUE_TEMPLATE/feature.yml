@@ -1,0 +1,15 @@
+name: Feature request
+description: Propose a change to the benchmark.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and proposed behavior
+      description: Explain the use case and how the change would help evaluate navigation.
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Validation and compatibility
+      description: How could we verify the change? Would it affect existing results or datasets?

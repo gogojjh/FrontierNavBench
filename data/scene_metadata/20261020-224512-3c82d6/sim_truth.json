@@ -1,0 +1,22 @@
+{
+  "scene": "env0_office_single_floor",
+  "recorded_at": "2026-10-20T22:45:12+08:00",
+  "layout_md5": {
+    "build_blender": "991f2a585ee38fe308a395b48de1d805",
+    "scene_assets": "fdc4acae0aca3f1be4043e7372a664fe"
+  },
+  "task_origin_world": {
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_xyzw": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "note": "task_origin_world = 会话开始时任务原点(最近一次里程计置零时的机身)在仿真世界里的位姿;公开地图 = 建图任务系,T_task_map = I;T_simworld_map = T_simworld_build_task,仿真世界坐标 = 任务原点 × 地图坐标。地面对齐仅在 sgm 内部使用"
+}

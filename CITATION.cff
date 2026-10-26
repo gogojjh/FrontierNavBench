@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite this software repository."
+type: software
+title: "vnav_benchmark: Image-goal navigation with topological maps"
+authors:
+  - family-names: Jiao
+    given-names: Jianhao
+repository-code: "https://github.com/gogojjh/vnav_benchmark"
+url: "https://github.com/gogojjh/vnav_benchmark"
+license: MIT

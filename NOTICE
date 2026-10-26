@@ -1,0 +1,22 @@
+Visual Navigation Benchmark
+Copyright (c) 2026 Jianhao Jiao and contributors. MIT license.
+
+SRU-Odin: retained ONNX inference wrapper and pretrained models, MIT.
+See third_party/SRU-Odin/LICENSE and assets/LICENSES/MIT-SRU-Odin.txt.
+
+Go2 native runtime, coordinate/frame codecs, scene motion and report helpers
+are adapted from the authors' RoboHike/nav_system and tools/viz code, MIT.
+Source headers record upstream paths and accepted source SHA256 values.
+Frozen scene exports retain per-scene provenance and MIT notices.
+
+MoE-CTS Go2 walking-policy implementation/weights derive from
+wertyuilife2/go2_rl_robotlab at 28b4516 and are Apache-2.0 licensed.
+See assets/LICENSES/Apache-2.0-go2-policy.txt and assets/weights/go2/README.upstream.md.
+
+Poly Haven scene models, textures and lighting are CC0-1.0. Source URLs and
+original checksums: assets/provenance/scene_sources.json.
+License: assets/LICENSES/CC0-1.0.txt.
+
+NVIDIA Isaac Sim and the official Go2 USD are obtained separately under NVIDIA's
+terms. Official robot binaries and their generated local payload layer are
+excluded from public Git. The project MIT license does not cover them.

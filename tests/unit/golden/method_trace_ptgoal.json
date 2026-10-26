@@ -1,0 +1,6633 @@
+{
+ "b0_budget_out": {
+  "actions": [
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 1,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   }
+  ],
+  "controller": {
+   "closed": true,
+   "resets": 1,
+   "targets": [
+    [
+     -0.7999999999999998,
+     0.09999999999999991
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ]
+   ]
+  },
+  "files": {
+   "route.json": "{\n \"map_id\": \"m\",\n \"edge_type\": \"trav\",\n \"start_map\": [\n  0.2,\n  0.1,\n  3.1416\n ],\n \"goal_map\": [\n  4.1,\n  4.3,\n  2.5708\n ],\n \"kf_path\": [\n  0,\n  1,\n  2,\n  3,\n  4,\n  5,\n  6,\n  7,\n  8\n ],\n \"route_length_m\": 8.0,\n \"planned_total_m\": 8.54\n}",
+   "steps.jsonl": "{\"step\": 0, \"t\": 0.0, \"phase\": \"subgoal\", \"kf\": 1, \"robot_map\": [0.2, 0.1, 3.1416], \"target_map\": [1.0, 0.0, -0.0], \"dist_m\": 0.806, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 1, \"t\": 0.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -3.0016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 2, \"t\": 0.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.8616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 3, \"t\": 0.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.7216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 4, \"t\": 0.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.5816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 5, \"t\": 1.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.4416], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 6, \"t\": 1.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.3016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 7, \"t\": 1.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.1616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 8, \"t\": 1.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.0216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 9, \"t\": 1.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.8816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 10, \"t\": 2.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.7416], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 11, \"t\": 2.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.6016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 12, \"t\": 2.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.4616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 13, \"t\": 2.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.3216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 14, \"t\": 2.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.1816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n",
+   "summary.json": "{\n \"method_id\": \"dense-contloc-ptgoal\",\n \"controller\": \"sru_sidecar\",\n \"route_kfs\": 9,\n \"planned_total_m\": 8.54,\n \"decisions\": 15,\n \"align_decisions\": 0,\n \"sru_arrived_steps\": 0,\n \"controller_s_total\": 0.015,\n \"termination\": null,\n \"replans\": 0,\n \"replans_on_switch\": 1,\n \"subgoal_advances\": 1,\n \"blocked_edges\": 0,\n \"degraded\": 0,\n \"degraded_no_route\": 0,\n \"stall_kept_no_alt\": 0,\n \"stall_kept_after_cap\": 0\n}"
+  },
+  "summary": {
+   "align_decisions": 0,
+   "blocked_edges": 0,
+   "controller": "sru_sidecar",
+   "controller_s_total": 0.015,
+   "decisions": 15,
+   "degraded": 0,
+   "degraded_no_route": 0,
+   "method_id": "dense-contloc-ptgoal",
+   "planned_total_m": 8.54,
+   "replans": 0,
+   "replans_on_switch": 1,
+   "route_kfs": 9,
+   "sru_arrived_steps": 0,
+   "stall_kept_after_cap": 0,
+   "stall_kept_no_alt": 0,
+   "subgoal_advances": 1,
+   "termination": null
+  }
+ },
+ "b0_reach_align": {
+  "actions": [
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 1,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.6391412225161813,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.4989923741418141,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.39407201838793027,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.31550342552724814,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.25690461068438303,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2137519257809925,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.09961948206602982,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0776867737444813,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.061223764919219104,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0488704520417098,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.039634054998408885,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0328009136453038,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.029147474995642186,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.02267921733512246,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.017824664486465247,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.01418074382472545,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.011452587979822184,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.009427050579891016,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.5572060093285088,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.4500533530308224,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.37066789649066617,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.5940848203222078,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.4629241667467764,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.3647046997555962,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.29110772829951526,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2361293792929331,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.19548392177764795,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.29404090031890895,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2287705873067315,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.17981205876853923,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.143076167366781,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.11558025261962301,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.09517259312737947,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.08679697660639729,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.06739241159678278,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.052833252611659054,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.04190359867698478,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.033712940982030266,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.027615059571226667,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.0987363975932305,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.08104893799529224,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.06814606412164725,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.0591922338037737,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.650074601771633,
+     0.0,
+     -0.0538703288048229,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.5201366904252995,
+     0.0,
+     -0.049203731867965894,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "done"
+    },
+    "done": true,
+    "note": "pose within tolerance"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "done"
+    },
+    "done": true,
+    "note": "pose within tolerance"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "done"
+    },
+    "done": true,
+    "note": "pose within tolerance"
+   }
+  ],
+  "controller": {
+   "closed": true,
+   "resets": 1,
+   "targets": [
+    [
+     -0.7999999999999998,
+     0.09999999999999991
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ]
+   ]
+  },
+  "files": {
+   "route.json": "{\n \"map_id\": \"m\",\n \"edge_type\": \"trav\",\n \"start_map\": [\n  0.2,\n  0.1,\n  3.1416\n ],\n \"goal_map\": [\n  4.1,\n  4.3,\n  2.5708\n ],\n \"kf_path\": [\n  0,\n  1,\n  2,\n  3,\n  4,\n  5,\n  6,\n  7,\n  8\n ],\n \"route_length_m\": 8.0,\n \"planned_total_m\": 8.54\n}",
+   "steps.jsonl": "{\"step\": 0, \"t\": 0.0, \"phase\": \"subgoal\", \"kf\": 1, \"robot_map\": [0.2, 0.1, 3.1416], \"target_map\": [1.0, 0.0, -0.0], \"dist_m\": 0.806, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 1, \"t\": 0.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -3.0016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 2, \"t\": 0.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.8616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 3, \"t\": 0.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.7216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 4, \"t\": 0.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.5816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 5, \"t\": 1.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.4416], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 6, \"t\": 1.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.3016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 7, \"t\": 1.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.1616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 8, \"t\": 1.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.0216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 9, \"t\": 1.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.8816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 10, \"t\": 2.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.7416], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 11, \"t\": 2.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.6016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 12, \"t\": 2.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.4616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 13, \"t\": 2.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.3216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 14, \"t\": 2.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.1816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 15, \"t\": 3.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.0416], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 16, \"t\": 3.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -0.9016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 17, \"t\": 3.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -0.7616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 18, \"t\": 3.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -0.6216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 19, \"t\": 3.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -0.4816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.8, 0.0, 0.6391], \"done\": false}\n{\"step\": 20, \"t\": 4.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.346, 0.0349, -0.3538], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.654, \"cmd\": [0.8, 0.0, 0.499], \"done\": false}\n{\"step\": 21, \"t\": 4.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.4986, -0.0131, -0.254], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.501, \"cmd\": [0.8, 0.0, 0.3941], \"done\": false}\n{\"step\": 22, \"t\": 4.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.6548, -0.0473, -0.1752], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.346, \"cmd\": [0.8, 0.0, 0.3155], \"done\": false}\n{\"step\": 23, \"t\": 4.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.8132, -0.0704, -0.1121], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.189, \"cmd\": [0.8, 0.0, 0.2569], \"done\": false}\n{\"step\": 24, \"t\": 4.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.9725, -0.0843, -0.0607], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.031, \"cmd\": [0.8, 0.0, 0.2138], \"done\": false}\n{\"step\": 25, \"t\": 5.0, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.1324, -0.0906, -0.0179], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.87, \"cmd\": [0.8, 0.0, 0.0996], \"done\": false}\n{\"step\": 26, \"t\": 5.2, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.2924, -0.092, 0.002], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.71, \"cmd\": [0.8, 0.0, 0.0777], \"done\": false}\n{\"step\": 27, \"t\": 5.4, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.4524, -0.0904, 0.0175], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.55, \"cmd\": [0.8, 0.0, 0.0612], \"done\": false}\n{\"step\": 28, \"t\": 5.6, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.6123, -0.0867, 0.0298], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.39, \"cmd\": [0.8, 0.0, 0.0489], \"done\": false}\n{\"step\": 29, \"t\": 5.8, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.7722, -0.0811, 0.0396], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.23, \"cmd\": [0.8, 0.0, 0.0396], \"done\": false}\n{\"step\": 30, \"t\": 6.0, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.9321, -0.0742, 0.0475], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.07, \"cmd\": [0.8, 0.0, 0.0328], \"done\": false}\n{\"step\": 31, \"t\": 6.2, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.0919, -0.0661, 0.054], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.909, \"cmd\": [0.8, 0.0, -0.0291], \"done\": false}\n{\"step\": 32, \"t\": 6.4, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.2517, -0.0579, 0.0482], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.749, \"cmd\": [0.8, 0.0, -0.0227], \"done\": false}\n{\"step\": 33, \"t\": 6.6, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.4115, -0.0505, 0.0437], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.589, \"cmd\": [0.8, 0.0, -0.0178], \"done\": false}\n{\"step\": 34, \"t\": 6.8, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.5714, -0.0438, 0.0401], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.429, \"cmd\": [0.8, 0.0, -0.0142], \"done\": false}\n{\"step\": 35, \"t\": 7.0, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.7312, -0.0376, 0.0373], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.269, \"cmd\": [0.8, 0.0, -0.0115], \"done\": false}\n{\"step\": 36, \"t\": 7.2, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.8911, -0.0318, 0.035], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.109, \"cmd\": [0.8, 0.0, -0.0094], \"done\": false}\n{\"step\": 37, \"t\": 7.4, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.051, -0.0264, 0.0331], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.398, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 38, \"t\": 7.6, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.051, -0.0264, 0.1731], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.398, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 39, \"t\": 7.8, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.051, -0.0264, 0.3131], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.398, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 40, \"t\": 8.0, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.051, -0.0264, 0.4531], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.398, \"cmd\": [0.8, 0.0, 0.5572], \"done\": false}\n{\"step\": 41, \"t\": 8.2, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.1908, 0.0513, 0.5645], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.247, \"cmd\": [0.8, 0.0, 0.4501], \"done\": false}\n{\"step\": 42, \"t\": 8.4, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.3221, 0.1427, 0.6546], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.093, \"cmd\": [0.8, 0.0, 0.3707], \"done\": false}\n{\"step\": 43, \"t\": 8.6, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.4454, 0.2447, 0.7287], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.841, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 44, \"t\": 8.8, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.4454, 0.2447, 0.8687], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.841, \"cmd\": [0.8, 0.0, 0.5941], \"done\": false}\n{\"step\": 45, \"t\": 9.0, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.5414, 0.3725, 0.9875], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.691, \"cmd\": [0.8, 0.0, 0.4629], \"done\": false}\n{\"step\": 46, \"t\": 9.2, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.6234, 0.5098, 1.0801], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.537, \"cmd\": [0.8, 0.0, 0.3647], \"done\": false}\n{\"step\": 47, \"t\": 9.4, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.6937, 0.6535, 1.153], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.381, \"cmd\": [0.8, 0.0, 0.2911], \"done\": false}\n{\"step\": 48, \"t\": 9.6, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.7544, 0.8015, 1.2113], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.223, \"cmd\": [0.8, 0.0, 0.2361], \"done\": false}\n{\"step\": 49, \"t\": 9.8, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.8072, 0.9525, 1.2585], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.065, \"cmd\": [0.8, 0.0, 0.1955], \"done\": false}\n{\"step\": 50, \"t\": 10.0, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.8535, 1.1057, 1.2976], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.9, \"cmd\": [0.8, 0.0, 0.294], \"done\": false}\n{\"step\": 51, \"t\": 10.2, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.8922, 1.2609, 1.3564], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.742, \"cmd\": [0.8, 0.0, 0.2288], \"done\": false}\n{\"step\": 52, \"t\": 10.4, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9228, 1.418, 1.4021], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.584, \"cmd\": [0.8, 0.0, 0.1798], \"done\": false}\n{\"step\": 53, \"t\": 10.6, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9469, 1.5761, 1.4381], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.425, \"cmd\": [0.8, 0.0, 0.1431], \"done\": false}\n{\"step\": 54, \"t\": 10.8, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9658, 1.735, 1.4667], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.265, \"cmd\": [0.8, 0.0, 0.1156], \"done\": false}\n{\"step\": 55, \"t\": 11.0, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9806, 1.8943, 1.4898], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.106, \"cmd\": [0.8, 0.0, 0.0952], \"done\": false}\n{\"step\": 56, \"t\": 11.2, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [3.9921, 2.0539, 1.5089], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.946, \"cmd\": [0.8, 0.0, 0.0868], \"done\": false}\n{\"step\": 57, \"t\": 11.4, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0006, 2.2137, 1.5262], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.786, \"cmd\": [0.8, 0.0, 0.0674], \"done\": false}\n{\"step\": 58, \"t\": 11.6, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0067, 2.3735, 1.5397], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.626, \"cmd\": [0.8, 0.0, 0.0528], \"done\": false}\n{\"step\": 59, \"t\": 11.8, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0109, 2.5335, 1.5503], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.467, \"cmd\": [0.8, 0.0, 0.0419], \"done\": false}\n{\"step\": 60, \"t\": 12.0, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0135, 2.6935, 1.5587], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.307, \"cmd\": [0.8, 0.0, 0.0337], \"done\": false}\n{\"step\": 61, \"t\": 12.2, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0149, 2.8535, 1.5654], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.147, \"cmd\": [0.8, 0.0, 0.0276], \"done\": false}\n{\"step\": 62, \"t\": 12.4, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0154, 3.0135, 1.5709], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 1.289, \"cmd\": [0.8, 0.0, -0.0987], \"done\": false}\n{\"step\": 63, \"t\": 12.6, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0169, 3.1734, 1.5512], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 1.13, \"cmd\": [0.8, 0.0, -0.081], \"done\": false}\n{\"step\": 64, \"t\": 12.8, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0213, 3.3334, 1.535], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.97, \"cmd\": [0.8, 0.0, -0.0681], \"done\": false}\n{\"step\": 65, \"t\": 13.0, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0281, 3.4932, 1.5213], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.81, \"cmd\": [0.8, 0.0, -0.0592], \"done\": false}\n{\"step\": 66, \"t\": 13.2, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0369, 3.653, 1.5095], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.65, \"cmd\": [0.6501, 0.0, -0.0539], \"done\": false}\n{\"step\": 67, \"t\": 13.4, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0455, 3.7827, 1.4987], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.52, \"cmd\": [0.5201, 0.0, -0.0492], \"done\": false}\n{\"step\": 68, \"t\": 13.6, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 1.4889], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 69, \"t\": 13.8, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 1.6289], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 70, \"t\": 14.0, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 1.7689], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 71, \"t\": 14.2, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 1.9089], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 72, \"t\": 14.4, \"phase\": \"done\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 2.0489], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.0], \"done\": true}\n{\"step\": 72, \"t\": 14.4, \"phase\": \"done\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 2.0489], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.0], \"done\": true}\n{\"step\": 72, \"t\": 14.4, \"phase\": \"done\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 2.0489], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.0], \"done\": true}\n",
+   "summary.json": "{\n \"method_id\": \"dense-contloc-ptgoal\",\n \"controller\": \"sru_sidecar\",\n \"route_kfs\": 9,\n \"planned_total_m\": 8.54,\n \"decisions\": 75,\n \"align_decisions\": 4,\n \"sru_arrived_steps\": 0,\n \"controller_s_total\": 0.068,\n \"termination\": \"done\",\n \"replans\": 0,\n \"replans_on_switch\": 7,\n \"subgoal_advances\": 7,\n \"blocked_edges\": 0,\n \"degraded\": 0,\n \"degraded_no_route\": 0,\n \"stall_kept_no_alt\": 0,\n \"stall_kept_after_cap\": 0\n}"
+  },
+  "summary": {
+   "align_decisions": 4,
+   "blocked_edges": 0,
+   "controller": "sru_sidecar",
+   "controller_s_total": 0.068,
+   "decisions": 75,
+   "degraded": 0,
+   "degraded_no_route": 0,
+   "method_id": "dense-contloc-ptgoal",
+   "planned_total_m": 8.54,
+   "replans": 0,
+   "replans_on_switch": 7,
+   "route_kfs": 9,
+   "sru_arrived_steps": 0,
+   "stall_kept_after_cap": 0,
+   "stall_kept_no_alt": 0,
+   "subgoal_advances": 7,
+   "termination": "done"
+  }
+ },
+ "b0_stall_replan": {
+  "actions": [
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 1,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.6439781586920454,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.49571833084332095,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.3849553604444713,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.30197840638731976,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.23975002760611563,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.1931588501644237,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.14176034790244596,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.02066730766862168,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.07145247013353485,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.13945461382687516,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.18689006419975018,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.21655732499945385,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.23096372240987628,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.23260868997014517,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2240701889237271,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2079402906417427,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.18668823022652226,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.16252274184002558,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.1372965826059821,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.11246574077047133,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.08909584044728891,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.06790025382600405,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.04929457468734477,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.03345587901673741,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.02037953496796674,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.009929805918664436,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0018827917329434785,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.004038436220917929,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.008136004314885594,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.01071593998093001,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.01207255727822032,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.012477672077098378,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.012173826571274304,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.011370751727792894,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.010244357696793218,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.00893761472567356,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.007562768259576469,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.006204417696509257,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.004923074152821227,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.0037588944264542734,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.0027353629621266196,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.0018627590495290391,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.0011413018388245488,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.0005639110031616658,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.00011855657266646169,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.00020980147470350818,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.00043766375348597286,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0005817988743229696,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0006583665185645459,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0006823112245418761,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0006669813502195865,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0006239294373392436,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0005628535727617567,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0004916437189694811,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0004165018817047228,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.00034211002115969174,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0002718245136136277,
+     0.2
+    ],
+    "debug": {
+     "kf": 9,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     -0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.5926392155156356,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.47772721919905403,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.3924926282300669,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.3631438800743321,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2849277767061344,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.22626379644702627,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.1823412389819159,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.14968949393196662,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.3977158011881654,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.30863113364165407,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2418621500792737,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.19176877275129667,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.15424041385029796,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.12630224393342182,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.5990850049852213,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.4957471839480707,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.5898295370669853,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.4655979944015727,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.37262575109229945,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.30330053617574604,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.25224034388338756,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.31801236374673303,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2478200219076988,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.19516730105353763,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.15567001059320962,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.12613601528141594,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.10427194563790743,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0753126314465451,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.058569121502569876,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.04600389082120582,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.036571937490656015,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.029508639250165003,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.02426075653380899,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.10782742339883389,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.08885492405670159,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.07509518131650882,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.780911758551761,
+     0.0,
+     -0.06569860157420725,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.6248669883803245,
+     0.0,
+     -0.060005315193754516,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "done"
+    },
+    "done": true,
+    "note": "pose within tolerance"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "done"
+    },
+    "done": true,
+    "note": "pose within tolerance"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "done"
+    },
+    "done": true,
+    "note": "pose within tolerance"
+   }
+  ],
+  "controller": {
+   "closed": true,
+   "resets": 1,
+   "targets": [
+    [
+     -0.7999999999999998,
+     0.09999999999999991
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -0.7999999999999998,
+     -1.8999999999999997
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ]
+   ]
+  },
+  "files": {
+   "route.json": "{\n \"map_id\": \"m\",\n \"edge_type\": \"trav\",\n \"start_map\": [\n  0.2,\n  0.1,\n  3.1416\n ],\n \"goal_map\": [\n  4.1,\n  4.3,\n  2.5708\n ],\n \"kf_path\": [\n  0,\n  1,\n  9,\n  8\n ],\n \"route_length_m\": 6.606,\n \"planned_total_m\": 7.145\n}",
+   "steps.jsonl": "{\"step\": 0, \"t\": 0.0, \"phase\": \"subgoal\", \"kf\": 1, \"robot_map\": [0.2, 0.1, 3.1416], \"target_map\": [1.0, 0.0, -0.0], \"dist_m\": 0.806, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 1, \"t\": 0.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, -3.0016], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 2, \"t\": 0.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 3.1416], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 3, \"t\": 0.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 3.0016], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 4, \"t\": 0.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 2.8616], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 5, \"t\": 1.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 2.7216], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 6, \"t\": 1.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 2.5816], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 7, \"t\": 1.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 2.4416], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 8, \"t\": 1.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 2.3016], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 9, \"t\": 1.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 2.1616], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 10, \"t\": 2.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 2.0216], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 11, \"t\": 2.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 1.8816], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 12, \"t\": 2.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 1.7416], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 13, \"t\": 2.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2, 0.1, 1.6016], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 2.062, \"cmd\": [0.8, 0.0, -0.644], \"done\": false}\n{\"step\": 14, \"t\": 2.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2051, 0.2598, 1.4728], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.913, \"cmd\": [0.8, 0.0, -0.4957], \"done\": false}\n{\"step\": 15, \"t\": 3.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2284, 0.418, 1.3737], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.76, \"cmd\": [0.8, 0.0, -0.385], \"done\": false}\n{\"step\": 16, \"t\": 3.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.2656, 0.5736, 1.2967], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.604, \"cmd\": [0.8, 0.0, -0.302], \"done\": false}\n{\"step\": 17, \"t\": 3.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.3135, 0.7263, 1.2363], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.447, \"cmd\": [0.8, 0.0, -0.2398], \"done\": false}\n{\"step\": 18, \"t\": 3.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.3695, 0.8761, 1.1883], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.289, \"cmd\": [0.8, 0.0, -0.1932], \"done\": false}\n{\"step\": 19, \"t\": 3.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.432, 0.9978, 1.1497], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.152, \"cmd\": [0.8, 0.0, -0.1418], \"done\": false}\n{\"step\": 20, \"t\": 4.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.4994, 0.9978, 1.1213], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.12, \"cmd\": [0.8, 0.0, -0.0207], \"done\": false}\n{\"step\": 21, \"t\": 4.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.5692, 0.9978, 1.1172], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.091, \"cmd\": [0.8, 0.0, 0.0715], \"done\": false}\n{\"step\": 22, \"t\": 4.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.6383, 0.9978, 1.1315], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.065, \"cmd\": [0.8, 0.0, 0.1395], \"done\": false}\n{\"step\": 23, \"t\": 4.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.7044, 0.9978, 1.1594], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.045, \"cmd\": [0.8, 0.0, 0.1869], \"done\": false}\n{\"step\": 24, \"t\": 4.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.7657, 0.9978, 1.1968], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.029, \"cmd\": [0.8, 0.0, 0.2166], \"done\": false}\n{\"step\": 25, \"t\": 5.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.821, 0.9978, 1.2401], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.018, \"cmd\": [0.8, 0.0, 0.231], \"done\": false}\n{\"step\": 26, \"t\": 5.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.8695, 0.9978, 1.2863], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.011, \"cmd\": [0.8, 0.0, 0.2326], \"done\": false}\n{\"step\": 27, \"t\": 5.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9109, 0.9978, 1.3328], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.006, \"cmd\": [0.8, 0.0, 0.2241], \"done\": false}\n{\"step\": 28, \"t\": 5.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9453, 0.9978, 1.3776], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.004, \"cmd\": [0.8, 0.0, 0.2079], \"done\": false}\n{\"step\": 29, \"t\": 5.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9728, 0.9978, 1.4192], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.003, \"cmd\": [0.8, 0.0, 0.1867], \"done\": false}\n{\"step\": 30, \"t\": 6.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9941, 0.9978, 1.4565], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.1625], \"done\": false}\n{\"step\": 31, \"t\": 6.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0098, 0.9978, 1.489], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.1373], \"done\": false}\n{\"step\": 32, \"t\": 6.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0207, 0.9978, 1.5165], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.1125], \"done\": false}\n{\"step\": 33, \"t\": 6.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0277, 0.9978, 1.539], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.003, \"cmd\": [0.8, 0.0, 0.0891], \"done\": false}\n{\"step\": 34, \"t\": 6.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0314, 0.9978, 1.5568], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.003, \"cmd\": [0.8, 0.0, 0.0679], \"done\": false}\n{\"step\": 35, \"t\": 7.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0325, 0.9978, 1.5704], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.003, \"cmd\": [0.8, 0.0, 0.0493], \"done\": false}\n{\"step\": 36, \"t\": 7.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0318, 0.9978, 1.5802], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.003, \"cmd\": [0.8, 0.0, 0.0335], \"done\": false}\n{\"step\": 37, \"t\": 7.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0298, 0.9978, 1.5869], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.003, \"cmd\": [0.8, 0.0, 0.0204], \"done\": false}\n{\"step\": 38, \"t\": 7.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0269, 0.9978, 1.591], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.003, \"cmd\": [0.8, 0.0, 0.0099], \"done\": false}\n{\"step\": 39, \"t\": 7.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0235, 0.9978, 1.593], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0019], \"done\": false}\n{\"step\": 40, \"t\": 8.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0199, 0.9978, 1.5934], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.004], \"done\": false}\n{\"step\": 41, \"t\": 8.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0164, 0.9978, 1.5926], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0081], \"done\": false}\n{\"step\": 42, \"t\": 8.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.013, 0.9978, 1.5909], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0107], \"done\": false}\n{\"step\": 43, \"t\": 8.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.01, 0.9978, 1.5888], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0121], \"done\": false}\n{\"step\": 44, \"t\": 8.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0073, 0.9978, 1.5864], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0125], \"done\": false}\n{\"step\": 45, \"t\": 9.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.005, 0.9978, 1.5839], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0122], \"done\": false}\n{\"step\": 46, \"t\": 9.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0031, 0.9978, 1.5814], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0114], \"done\": false}\n{\"step\": 47, \"t\": 9.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0015, 0.9978, 1.5792], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0102], \"done\": false}\n{\"step\": 48, \"t\": 9.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0004, 0.9978, 1.5771], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0089], \"done\": false}\n{\"step\": 49, \"t\": 9.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9995, 0.9978, 1.5753], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0076], \"done\": false}\n{\"step\": 50, \"t\": 10.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9989, 0.9978, 1.5738], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0062], \"done\": false}\n{\"step\": 51, \"t\": 10.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9985, 0.9978, 1.5726], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0049], \"done\": false}\n{\"step\": 52, \"t\": 10.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9983, 0.9978, 1.5716], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0038], \"done\": false}\n{\"step\": 53, \"t\": 10.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9982, 0.9978, 1.5708], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0027], \"done\": false}\n{\"step\": 54, \"t\": 10.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9983, 0.9978, 1.5703], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0019], \"done\": false}\n{\"step\": 55, \"t\": 11.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9984, 0.9978, 1.5699], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0011], \"done\": false}\n{\"step\": 56, \"t\": 11.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9985, 0.9978, 1.5697], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0006], \"done\": false}\n{\"step\": 57, \"t\": 11.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9987, 0.9978, 1.5696], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, -0.0001], \"done\": false}\n{\"step\": 58, \"t\": 11.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9989, 0.9978, 1.5696], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0002], \"done\": false}\n{\"step\": 59, \"t\": 11.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9991, 0.9978, 1.5696], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0004], \"done\": false}\n{\"step\": 60, \"t\": 12.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9993, 0.9978, 1.5697], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0006], \"done\": false}\n{\"step\": 61, \"t\": 12.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9994, 0.9978, 1.5698], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0007], \"done\": false}\n{\"step\": 62, \"t\": 12.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9996, 0.9978, 1.5699], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0007], \"done\": false}\n{\"step\": 63, \"t\": 12.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9997, 0.9978, 1.5701], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0007], \"done\": false}\n{\"step\": 64, \"t\": 12.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9998, 0.9978, 1.5702], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0006], \"done\": false}\n{\"step\": 65, \"t\": 13.0, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [0.9999, 0.9978, 1.5703], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0006], \"done\": false}\n{\"step\": 66, \"t\": 13.2, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0, 0.9978, 1.5704], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0005], \"done\": false}\n{\"step\": 67, \"t\": 13.4, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0, 0.9978, 1.5705], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0004], \"done\": false}\n{\"step\": 68, \"t\": 13.6, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0001, 0.9978, 1.5706], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0003], \"done\": false}\n{\"step\": 69, \"t\": 13.8, \"phase\": \"subgoal\", \"kf\": 9, \"robot_map\": [1.0001, 0.9978, 1.5707], \"target_map\": [1.0, 2.0, 1.5708], \"dist_m\": 1.002, \"cmd\": [0.8, 0.0, 0.0003], \"done\": false}\n{\"step\": 70, \"t\": 14.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 1.5708], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 71, \"t\": 14.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 1.4308], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 72, \"t\": 14.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 1.2908], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 73, \"t\": 14.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 1.1508], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 74, \"t\": 14.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 1.0108], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 75, \"t\": 15.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 0.8708], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 76, \"t\": 15.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 0.7308], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 77, \"t\": 15.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 0.5908], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 78, \"t\": 15.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 0.4508], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 79, \"t\": 15.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 0.3108], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 80, \"t\": 16.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 0.1708], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 81, \"t\": 16.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, 0.0308], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 82, \"t\": 16.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, -0.1092], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 83, \"t\": 16.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, -0.2492], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.0, 0.0, -0.7], \"done\": false}\n{\"step\": 84, \"t\": 16.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.0001, 0.9978, -0.3892], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.413, \"cmd\": [0.8, 0.0, -0.5926], \"done\": false}\n{\"step\": 85, \"t\": 17.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.1443, 0.9287, -0.5078], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.263, \"cmd\": [0.8, 0.0, -0.4777], \"done\": false}\n{\"step\": 86, \"t\": 17.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [1.2803, 0.8445, -0.6033], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.11, \"cmd\": [0.8, 0.0, -0.3925], \"done\": false}\n{\"step\": 87, \"t\": 17.4, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.4084, 0.7487, -0.6818], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.759, \"cmd\": [0.8, 0.0, 0.3631], \"done\": false}\n{\"step\": 88, \"t\": 17.6, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.5361, 0.6524, -0.6092], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.603, \"cmd\": [0.8, 0.0, 0.2849], \"done\": false}\n{\"step\": 89, \"t\": 17.8, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.6698, 0.5645, -0.5522], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.445, \"cmd\": [0.8, 0.0, 0.2263], \"done\": false}\n{\"step\": 90, \"t\": 18.0, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.8078, 0.4836, -0.507], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.287, \"cmd\": [0.8, 0.0, 0.1823], \"done\": false}\n{\"step\": 91, \"t\": 18.2, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.9491, 0.4085, -0.4705], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.128, \"cmd\": [0.8, 0.0, 0.1497], \"done\": false}\n{\"step\": 92, \"t\": 18.4, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.0927, 0.338, -0.4405], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.937, \"cmd\": [0.8, 0.0, 0.3977], \"done\": false}\n{\"step\": 93, \"t\": 18.6, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.2399, 0.2755, -0.361], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.781, \"cmd\": [0.8, 0.0, 0.3086], \"done\": false}\n{\"step\": 94, \"t\": 18.8, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.3912, 0.2235, -0.2993], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.624, \"cmd\": [0.8, 0.0, 0.2419], \"done\": false}\n{\"step\": 95, \"t\": 19.0, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.5452, 0.1799, -0.2509], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.466, \"cmd\": [0.8, 0.0, 0.1918], \"done\": false}\n{\"step\": 96, \"t\": 19.2, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.7009, 0.1431, -0.2126], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.307, \"cmd\": [0.8, 0.0, 0.1542], \"done\": false}\n{\"step\": 97, \"t\": 19.4, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.8578, 0.1117, -0.1817], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.148, \"cmd\": [0.8, 0.0, 0.1263], \"done\": false}\n{\"step\": 98, \"t\": 19.6, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.0155, 0.0848, -0.1564], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.344, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 99, \"t\": 19.8, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.0155, 0.0848, -0.0164], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.344, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 100, \"t\": 20.0, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.0155, 0.0848, 0.1236], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.344, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 101, \"t\": 20.2, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.0155, 0.0848, 0.2636], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.344, \"cmd\": [0.8, 0.0, 0.7], \"done\": false}\n{\"step\": 102, \"t\": 20.4, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.1666, 0.1368, 0.4036], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.2, \"cmd\": [0.8, 0.0, 0.5991], \"done\": false}\n{\"step\": 103, \"t\": 20.6, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.3097, 0.2081, 0.5234], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.05, \"cmd\": [0.8, 0.0, 0.4957], \"done\": false}\n{\"step\": 104, \"t\": 20.8, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.4443, 0.2946, 0.6225], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.794, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 105, \"t\": 21.0, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.4443, 0.2946, 0.7625], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.794, \"cmd\": [0.8, 0.0, 0.7], \"done\": false}\n{\"step\": 106, \"t\": 21.2, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.5521, 0.4127, 0.9025], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.649, \"cmd\": [0.8, 0.0, 0.5898], \"done\": false}\n{\"step\": 107, \"t\": 21.4, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.6438, 0.5437, 1.0205], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.499, \"cmd\": [0.8, 0.0, 0.4656], \"done\": false}\n{\"step\": 108, \"t\": 21.6, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.7211, 0.6837, 1.1136], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.346, \"cmd\": [0.8, 0.0, 0.3726], \"done\": false}\n{\"step\": 109, \"t\": 21.8, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.7865, 0.8297, 1.1881], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.19, \"cmd\": [0.8, 0.0, 0.3033], \"done\": false}\n{\"step\": 110, \"t\": 22.0, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.8418, 0.9798, 1.2488], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.032, \"cmd\": [0.8, 0.0, 0.2522], \"done\": false}\n{\"step\": 111, \"t\": 22.2, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.8887, 1.1327, 1.2992], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.871, \"cmd\": [0.8, 0.0, 0.318], \"done\": false}\n{\"step\": 112, \"t\": 22.4, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9268, 1.2881, 1.3628], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.713, \"cmd\": [0.8, 0.0, 0.2478], \"done\": false}\n{\"step\": 113, \"t\": 22.6, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.956, 1.4454, 1.4124], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.555, \"cmd\": [0.8, 0.0, 0.1952], \"done\": false}\n{\"step\": 114, \"t\": 22.8, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9783, 1.6038, 1.4514], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.396, \"cmd\": [0.8, 0.0, 0.1557], \"done\": false}\n{\"step\": 115, \"t\": 23.0, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9949, 1.763, 1.4826], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.237, \"cmd\": [0.8, 0.0, 0.1261], \"done\": false}\n{\"step\": 116, \"t\": 23.2, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [4.007, 1.9225, 1.5078], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.078, \"cmd\": [0.8, 0.0, 0.1043], \"done\": false}\n{\"step\": 117, \"t\": 23.4, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0155, 2.0823, 1.5287], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.918, \"cmd\": [0.8, 0.0, 0.0753], \"done\": false}\n{\"step\": 118, \"t\": 23.6, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.021, 2.2422, 1.5437], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.758, \"cmd\": [0.8, 0.0, 0.0586], \"done\": false}\n{\"step\": 119, \"t\": 23.8, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0245, 2.4021, 1.5554], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.598, \"cmd\": [0.8, 0.0, 0.046], \"done\": false}\n{\"step\": 120, \"t\": 24.0, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0262, 2.5621, 1.5646], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.438, \"cmd\": [0.8, 0.0, 0.0366], \"done\": false}\n{\"step\": 121, \"t\": 24.2, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0266, 2.7221, 1.5719], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.278, \"cmd\": [0.8, 0.0, 0.0295], \"done\": false}\n{\"step\": 122, \"t\": 24.4, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.026, 2.8821, 1.5779], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.118, \"cmd\": [0.8, 0.0, 0.0243], \"done\": false}\n{\"step\": 123, \"t\": 24.6, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0245, 3.0421, 1.5827], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 1.26, \"cmd\": [0.8, 0.0, -0.1078], \"done\": false}\n{\"step\": 124, \"t\": 24.8, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0242, 3.2021, 1.5611], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 1.1, \"cmd\": [0.8, 0.0, -0.0889], \"done\": false}\n{\"step\": 125, \"t\": 25.0, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0272, 3.3621, 1.5434], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.941, \"cmd\": [0.8, 0.0, -0.0751], \"done\": false}\n{\"step\": 126, \"t\": 25.2, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0327, 3.522, 1.5283], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.781, \"cmd\": [0.7809, 0.0, -0.0657], \"done\": false}\n{\"step\": 127, \"t\": 25.4, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0404, 3.678, 1.5152], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.625, \"cmd\": [0.6249, 0.0, -0.06], \"done\": false}\n{\"step\": 128, \"t\": 25.6, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.048, 3.8027, 1.5032], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.5, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 129, \"t\": 25.8, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.048, 3.8027, 1.6432], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.5, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 130, \"t\": 26.0, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.048, 3.8027, 1.7832], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.5, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 131, \"t\": 26.2, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.048, 3.8027, 1.9232], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.5, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 132, \"t\": 26.4, \"phase\": \"done\", \"kf\": null, \"robot_map\": [4.048, 3.8027, 2.0632], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.5, \"cmd\": [0.0, 0.0, 0.0], \"done\": true}\n{\"step\": 132, \"t\": 26.4, \"phase\": \"done\", \"kf\": null, \"robot_map\": [4.048, 3.8027, 2.0632], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.5, \"cmd\": [0.0, 0.0, 0.0], \"done\": true}\n{\"step\": 132, \"t\": 26.4, \"phase\": \"done\", \"kf\": null, \"robot_map\": [4.048, 3.8027, 2.0632], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.5, \"cmd\": [0.0, 0.0, 0.0], \"done\": true}\n",
+   "summary.json": "{\n \"method_id\": \"dense-contloc-ptgoal\",\n \"controller\": \"sru_sidecar\",\n \"route_kfs\": 4,\n \"planned_total_m\": 7.145,\n \"decisions\": 135,\n \"align_decisions\": 4,\n \"sru_arrived_steps\": 0,\n \"controller_s_total\": 0.128,\n \"termination\": \"done\",\n \"replans\": 1,\n \"replans_on_switch\": 7,\n \"subgoal_advances\": 7,\n \"blocked_edges\": 1,\n \"degraded\": 0,\n \"degraded_no_route\": 0,\n \"stall_kept_no_alt\": 0,\n \"stall_kept_after_cap\": 0\n}"
+  },
+  "summary": {
+   "align_decisions": 4,
+   "blocked_edges": 1,
+   "controller": "sru_sidecar",
+   "controller_s_total": 0.128,
+   "decisions": 135,
+   "degraded": 0,
+   "degraded_no_route": 0,
+   "method_id": "dense-contloc-ptgoal",
+   "planned_total_m": 7.145,
+   "replans": 1,
+   "replans_on_switch": 7,
+   "route_kfs": 4,
+   "sru_arrived_steps": 0,
+   "stall_kept_after_cap": 0,
+   "stall_kept_no_alt": 0,
+   "subgoal_advances": 7,
+   "termination": "done"
+  }
+ },
+ "m1_reach_align": {
+  "actions": [
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 1,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.6391412225161813,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.4989923741418141,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.39407201838793027,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.31550342552724814,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.25690461068438303,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2137519257809925,
+     0.2
+    ],
+    "debug": {
+     "kf": 2,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.09961948206602982,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0776867737444813,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.061223764919219104,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0488704520417098,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.039634054998408885,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.0328009136453038,
+     0.2
+    ],
+    "debug": {
+     "kf": 3,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.029147474995642186,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.02267921733512246,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.017824664486465247,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.01418074382472545,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.011452587979822184,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.009427050579891016,
+     0.2
+    ],
+    "debug": {
+     "kf": 4,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.5572060093285088,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.4500533530308224,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.37066789649066617,
+     0.2
+    ],
+    "debug": {
+     "kf": 5,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.5940848203222078,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.4629241667467764,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.3647046997555962,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.29110772829951526,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2361293792929331,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.19548392177764795,
+     0.2
+    ],
+    "debug": {
+     "kf": 6,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.29404090031890895,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.2287705873067315,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.17981205876853923,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.143076167366781,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.11558025261962301,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.09517259312737947,
+     0.2
+    ],
+    "debug": {
+     "kf": 7,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.08679697660639729,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.06739241159678278,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.052833252611659054,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.04190359867698478,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.033712940982030266,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     0.027615059571226667,
+     0.2
+    ],
+    "debug": {
+     "kf": 8,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "subgoal"
+    },
+    "done": false,
+    "note": "subgoal"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.0987363975932305,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.08104893799529224,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.06814606412164725,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.8,
+     0.0,
+     -0.0591922338037737,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.650074601771633,
+     0.0,
+     -0.0538703288048229,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.5201366904252995,
+     0.0,
+     -0.049203731867965894,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "controller_s": 0.001,
+      "loc_s": 0.0
+     },
+     "phase": "final"
+    },
+    "done": false,
+    "note": "final"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.7,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "align"
+    },
+    "done": false,
+    "note": "align"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "done"
+    },
+    "done": true,
+    "note": "pose within tolerance"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "done"
+    },
+    "done": true,
+    "note": "pose within tolerance"
+   },
+   {
+    "cmd": [
+     0.0,
+     0.0,
+     0.0,
+     0.2
+    ],
+    "debug": {
+     "kf": null,
+     "latency": {
+      "loc_s": 0.0
+     },
+     "phase": "done"
+    },
+    "done": true,
+    "note": "pose within tolerance"
+   }
+  ],
+  "controller": {
+   "closed": true,
+   "resets": 1,
+   "targets": [
+    [
+     -0.7999999999999998,
+     0.09999999999999991
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -1.8,
+     0.09999999999999978
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -2.8,
+     0.09999999999999967
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     0.09999999999999955
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.8,
+     -0.9000000000000001
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -1.9
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -2.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.7999999999999994,
+     -3.8999999999999995
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ],
+    [
+     -3.899999999999999,
+     -4.2
+    ]
+   ]
+  },
+  "files": {
+   "route.json": "{\n \"map_id\": \"m\",\n \"edge_type\": \"trav\",\n \"start_map\": [\n  0.2,\n  0.1,\n  3.1416\n ],\n \"goal_map\": [\n  4.1,\n  4.3,\n  2.5708\n ],\n \"kf_path\": [\n  0,\n  1,\n  2,\n  3,\n  4,\n  5,\n  6,\n  7,\n  8\n ],\n \"route_length_m\": 8.0,\n \"planned_total_m\": 8.54\n}",
+   "steps.jsonl": "{\"step\": 0, \"t\": 0.0, \"phase\": \"subgoal\", \"kf\": 1, \"robot_map\": [0.2, 0.1, 3.1416], \"target_map\": [1.0, 0.0, -0.0], \"dist_m\": 0.806, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 1, \"t\": 0.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -3.0016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 2, \"t\": 0.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.8616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 3, \"t\": 0.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.7216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 4, \"t\": 0.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.5816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 5, \"t\": 1.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.4416], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 6, \"t\": 1.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.3016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 7, \"t\": 1.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.1616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 8, \"t\": 1.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -2.0216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 9, \"t\": 1.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.8816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 10, \"t\": 2.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.7416], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 11, \"t\": 2.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.6016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 12, \"t\": 2.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.4616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 13, \"t\": 2.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.3216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 14, \"t\": 2.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.1816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 15, \"t\": 3.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -1.0416], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 16, \"t\": 3.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -0.9016], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 17, \"t\": 3.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -0.7616], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 18, \"t\": 3.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -0.6216], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 19, \"t\": 3.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.2, 0.1, -0.4816], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.803, \"cmd\": [0.8, 0.0, 0.6391], \"done\": false}\n{\"step\": 20, \"t\": 4.0, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.346, 0.0349, -0.3538], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.654, \"cmd\": [0.8, 0.0, 0.499], \"done\": false}\n{\"step\": 21, \"t\": 4.2, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.4986, -0.0131, -0.254], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.501, \"cmd\": [0.8, 0.0, 0.3941], \"done\": false}\n{\"step\": 22, \"t\": 4.4, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.6548, -0.0473, -0.1752], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.346, \"cmd\": [0.8, 0.0, 0.3155], \"done\": false}\n{\"step\": 23, \"t\": 4.6, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.8132, -0.0704, -0.1121], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.189, \"cmd\": [0.8, 0.0, 0.2569], \"done\": false}\n{\"step\": 24, \"t\": 4.8, \"phase\": \"subgoal\", \"kf\": 2, \"robot_map\": [0.9725, -0.0843, -0.0607], \"target_map\": [2.0, 0.0, -0.0], \"dist_m\": 1.031, \"cmd\": [0.8, 0.0, 0.2138], \"done\": false}\n{\"step\": 25, \"t\": 5.0, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.1324, -0.0906, -0.0179], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.87, \"cmd\": [0.8, 0.0, 0.0996], \"done\": false}\n{\"step\": 26, \"t\": 5.2, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.2924, -0.092, 0.002], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.71, \"cmd\": [0.8, 0.0, 0.0777], \"done\": false}\n{\"step\": 27, \"t\": 5.4, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.4524, -0.0904, 0.0175], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.55, \"cmd\": [0.8, 0.0, 0.0612], \"done\": false}\n{\"step\": 28, \"t\": 5.6, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.6123, -0.0867, 0.0298], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.39, \"cmd\": [0.8, 0.0, 0.0489], \"done\": false}\n{\"step\": 29, \"t\": 5.8, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.7722, -0.0811, 0.0396], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.23, \"cmd\": [0.8, 0.0, 0.0396], \"done\": false}\n{\"step\": 30, \"t\": 6.0, \"phase\": \"subgoal\", \"kf\": 3, \"robot_map\": [1.9321, -0.0742, 0.0475], \"target_map\": [3.0, 0.0, -0.0], \"dist_m\": 1.07, \"cmd\": [0.8, 0.0, 0.0328], \"done\": false}\n{\"step\": 31, \"t\": 6.2, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.0919, -0.0661, 0.054], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.909, \"cmd\": [0.8, 0.0, -0.0291], \"done\": false}\n{\"step\": 32, \"t\": 6.4, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.2517, -0.0579, 0.0482], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.749, \"cmd\": [0.8, 0.0, -0.0227], \"done\": false}\n{\"step\": 33, \"t\": 6.6, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.4115, -0.0505, 0.0437], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.589, \"cmd\": [0.8, 0.0, -0.0178], \"done\": false}\n{\"step\": 34, \"t\": 6.8, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.5714, -0.0438, 0.0401], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.429, \"cmd\": [0.8, 0.0, -0.0142], \"done\": false}\n{\"step\": 35, \"t\": 7.0, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.7312, -0.0376, 0.0373], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.269, \"cmd\": [0.8, 0.0, -0.0115], \"done\": false}\n{\"step\": 36, \"t\": 7.2, \"phase\": \"subgoal\", \"kf\": 4, \"robot_map\": [2.8911, -0.0318, 0.035], \"target_map\": [4.0, 0.0, -0.0], \"dist_m\": 1.109, \"cmd\": [0.8, 0.0, -0.0094], \"done\": false}\n{\"step\": 37, \"t\": 7.4, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.051, -0.0264, 0.0331], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.398, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 38, \"t\": 7.6, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.051, -0.0264, 0.1731], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.398, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 39, \"t\": 7.8, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.051, -0.0264, 0.3131], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.398, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 40, \"t\": 8.0, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.051, -0.0264, 0.4531], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.398, \"cmd\": [0.8, 0.0, 0.5572], \"done\": false}\n{\"step\": 41, \"t\": 8.2, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.1908, 0.0513, 0.5645], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.247, \"cmd\": [0.8, 0.0, 0.4501], \"done\": false}\n{\"step\": 42, \"t\": 8.4, \"phase\": \"subgoal\", \"kf\": 5, \"robot_map\": [3.3221, 0.1427, 0.6546], \"target_map\": [4.0, 1.0, 1.5708], \"dist_m\": 1.093, \"cmd\": [0.8, 0.0, 0.3707], \"done\": false}\n{\"step\": 43, \"t\": 8.6, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.4454, 0.2447, 0.7287], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.841, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 44, \"t\": 8.8, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.4454, 0.2447, 0.8687], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.841, \"cmd\": [0.8, 0.0, 0.5941], \"done\": false}\n{\"step\": 45, \"t\": 9.0, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.5414, 0.3725, 0.9875], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.691, \"cmd\": [0.8, 0.0, 0.4629], \"done\": false}\n{\"step\": 46, \"t\": 9.2, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.6234, 0.5098, 1.0801], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.537, \"cmd\": [0.8, 0.0, 0.3647], \"done\": false}\n{\"step\": 47, \"t\": 9.4, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.6937, 0.6535, 1.153], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.381, \"cmd\": [0.8, 0.0, 0.2911], \"done\": false}\n{\"step\": 48, \"t\": 9.6, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.7544, 0.8015, 1.2113], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.223, \"cmd\": [0.8, 0.0, 0.2361], \"done\": false}\n{\"step\": 49, \"t\": 9.8, \"phase\": \"subgoal\", \"kf\": 6, \"robot_map\": [3.8072, 0.9525, 1.2585], \"target_map\": [4.0, 2.0, 1.5708], \"dist_m\": 1.065, \"cmd\": [0.8, 0.0, 0.1955], \"done\": false}\n{\"step\": 50, \"t\": 10.0, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.8535, 1.1057, 1.2976], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.9, \"cmd\": [0.8, 0.0, 0.294], \"done\": false}\n{\"step\": 51, \"t\": 10.2, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.8922, 1.2609, 1.3564], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.742, \"cmd\": [0.8, 0.0, 0.2288], \"done\": false}\n{\"step\": 52, \"t\": 10.4, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9228, 1.418, 1.4021], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.584, \"cmd\": [0.8, 0.0, 0.1798], \"done\": false}\n{\"step\": 53, \"t\": 10.6, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9469, 1.5761, 1.4381], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.425, \"cmd\": [0.8, 0.0, 0.1431], \"done\": false}\n{\"step\": 54, \"t\": 10.8, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9658, 1.735, 1.4667], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.265, \"cmd\": [0.8, 0.0, 0.1156], \"done\": false}\n{\"step\": 55, \"t\": 11.0, \"phase\": \"subgoal\", \"kf\": 7, \"robot_map\": [3.9806, 1.8943, 1.4898], \"target_map\": [4.0, 3.0, 1.5708], \"dist_m\": 1.106, \"cmd\": [0.8, 0.0, 0.0952], \"done\": false}\n{\"step\": 56, \"t\": 11.2, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [3.9921, 2.0539, 1.5089], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.946, \"cmd\": [0.8, 0.0, 0.0868], \"done\": false}\n{\"step\": 57, \"t\": 11.4, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0006, 2.2137, 1.5262], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.786, \"cmd\": [0.8, 0.0, 0.0674], \"done\": false}\n{\"step\": 58, \"t\": 11.6, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0067, 2.3735, 1.5397], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.626, \"cmd\": [0.8, 0.0, 0.0528], \"done\": false}\n{\"step\": 59, \"t\": 11.8, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0109, 2.5335, 1.5503], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.467, \"cmd\": [0.8, 0.0, 0.0419], \"done\": false}\n{\"step\": 60, \"t\": 12.0, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0135, 2.6935, 1.5587], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.307, \"cmd\": [0.8, 0.0, 0.0337], \"done\": false}\n{\"step\": 61, \"t\": 12.2, \"phase\": \"subgoal\", \"kf\": 8, \"robot_map\": [4.0149, 2.8535, 1.5654], \"target_map\": [4.0, 4.0, 1.5708], \"dist_m\": 1.147, \"cmd\": [0.8, 0.0, 0.0276], \"done\": false}\n{\"step\": 62, \"t\": 12.4, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0154, 3.0135, 1.5709], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 1.289, \"cmd\": [0.8, 0.0, -0.0987], \"done\": false}\n{\"step\": 63, \"t\": 12.6, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0169, 3.1734, 1.5512], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 1.13, \"cmd\": [0.8, 0.0, -0.081], \"done\": false}\n{\"step\": 64, \"t\": 12.8, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0213, 3.3334, 1.535], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.97, \"cmd\": [0.8, 0.0, -0.0681], \"done\": false}\n{\"step\": 65, \"t\": 13.0, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0281, 3.4932, 1.5213], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.81, \"cmd\": [0.8, 0.0, -0.0592], \"done\": false}\n{\"step\": 66, \"t\": 13.2, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0369, 3.653, 1.5095], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.65, \"cmd\": [0.6501, 0.0, -0.0539], \"done\": false}\n{\"step\": 67, \"t\": 13.4, \"phase\": \"final\", \"kf\": null, \"robot_map\": [4.0455, 3.7827, 1.4987], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.52, \"cmd\": [0.5201, 0.0, -0.0492], \"done\": false}\n{\"step\": 68, \"t\": 13.6, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 1.4889], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 69, \"t\": 13.8, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 1.6289], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 70, \"t\": 14.0, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 1.7689], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 71, \"t\": 14.2, \"phase\": \"align\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 1.9089], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.7], \"done\": false}\n{\"step\": 72, \"t\": 14.4, \"phase\": \"done\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 2.0489], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.0], \"done\": true}\n{\"step\": 72, \"t\": 14.4, \"phase\": \"done\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 2.0489], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.0], \"done\": true}\n{\"step\": 72, \"t\": 14.4, \"phase\": \"done\", \"kf\": null, \"robot_map\": [4.0535, 3.8864, 2.0489], \"target_map\": [4.1, 4.3, 2.5708], \"dist_m\": 0.416, \"cmd\": [0.0, 0.0, 0.0], \"done\": true}\n",
+   "summary.json": "{\n \"method_id\": \"sparse-contloc-ptgoal\",\n \"controller\": \"sru_sidecar\",\n \"route_kfs\": 9,\n \"planned_total_m\": 8.54,\n \"decisions\": 75,\n \"align_decisions\": 4,\n \"sru_arrived_steps\": 0,\n \"controller_s_total\": 0.068,\n \"termination\": \"done\",\n \"replans\": 0,\n \"replans_on_switch\": 7,\n \"subgoal_advances\": 7,\n \"blocked_edges\": 0,\n \"degraded\": 0,\n \"degraded_no_route\": 0,\n \"stall_kept_no_alt\": 0,\n \"stall_kept_after_cap\": 0\n}"
+  },
+  "summary": {
+   "align_decisions": 4,
+   "blocked_edges": 0,
+   "controller": "sru_sidecar",
+   "controller_s_total": 0.068,
+   "decisions": 75,
+   "degraded": 0,
+   "degraded_no_route": 0,
+   "method_id": "sparse-contloc-ptgoal",
+   "planned_total_m": 8.54,
+   "replans": 0,
+   "replans_on_switch": 7,
+   "route_kfs": 9,
+   "sru_arrived_steps": 0,
+   "stall_kept_after_cap": 0,
+   "stall_kept_no_alt": 0,
+   "subgoal_advances": 7,
+   "termination": "done"
+  }
+ }
+}

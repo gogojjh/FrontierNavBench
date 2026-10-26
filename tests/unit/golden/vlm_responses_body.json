@@ -1,0 +1,72 @@
+{
+  "model": "gpt-6-astra",
+  "input": [
+    {
+      "role": "developer",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "You are a navigation policy. Output JSON only.",
+          "prompt_cache_breakpoint": {
+            "mode": "explicit"
+          }
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "input_text",
+          "text": "GOAL IMAGE:"
+        },
+        {
+          "type": "input_image",
+          "image_url": "data:image/jpeg;base64,/9j/4GZha2VqcGVn",
+          "detail": "high"
+        },
+        {
+          "type": "input_text",
+          "text": "END OF GOAL IMAGE",
+          "prompt_cache_breakpoint": {
+            "mode": "explicit"
+          }
+        },
+        {
+          "type": "input_text",
+          "text": "DECISION 0"
+        }
+      ]
+    }
+  ],
+  "reasoning": {
+    "effort": "low"
+  },
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "name": "vnav_action_v1",
+      "schema": {
+        "type": "object",
+        "properties": {
+          "vx": {
+            "type": "number"
+          }
+        },
+        "required": [
+          "vx"
+        ]
+      },
+      "strict": true
+    },
+    "verbosity": "low"
+  },
+  "max_output_tokens": 3000,
+  "store": false,
+  "prompt_cache_options": {
+    "mode": "explicit",
+    "ttl": "30m"
+  },
+  "prompt_cache_key": "vnav_benchmark_v1",
+  "service_tier": "flex"
+}

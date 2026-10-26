@@ -1,0 +1,72 @@
+{
+  "schema": "vnav-scene-export-provenance-v1",
+  "source": "robohike_ws/src/nav_system/nav_sim_isaac",
+  "export_worktree_head": "2811b9b",
+  "description": "Evaluator geometry exported from check_layout; default grids and scene fingerprint preserve the source output exactly. Rectangle operations retain source order. Outdoor terrain retains its triangulated heightfield. Stair/elevator costs and waypoints are frozen from the original evaluator.",
+  "sources": [
+    {
+      "path": "src/nav_system/nav_sim_isaac/config/scene_assets.yaml",
+      "original_sha256": "7433d14e340088f5a73b8a60007baafe53f75611bea8d1cb7855ab9ad4bfac08",
+      "export_source_sha256": "2d90c2552d6996099cef327aa301de6c2a073d2b67211a0bf80f9f9f0a6f6e96",
+      "license": "MIT"
+    },
+    {
+      "path": "src/nav_system/nav_sim_isaac/nav_sim_isaac/scene/geometry.py",
+      "original_sha256": "30fd8935823948831c1a1b87f3112d8a795e2136ee1d8503dfa56da2c1aaaf7a",
+      "export_source_sha256": "4a96dc40c81969f5f2826846aa3b9454dfacf070d0624d45a16c15cd9b346689",
+      "license": "MIT"
+    },
+    {
+      "path": "src/nav_system/nav_sim_isaac/nav_sim_isaac/scene/hardscape.py",
+      "original_sha256": "6efcc329aede7a5a0a89ff66a39114ee31a50c29628b53de5e73d88bd031d0ce",
+      "export_source_sha256": "7247137808ee34dd21107171fd2d44055eb3b498945bc61d89f7ce7b8b6b9765",
+      "license": "MIT"
+    },
+    {
+      "path": "src/nav_system/nav_sim_isaac/nav_sim_isaac/scene/multistory.py",
+      "original_sha256": "d239393110b9bb61b48df0c2cc11addc318256823a6d8c03e71fe83319487fb8",
+      "export_source_sha256": "578a0f26be71814293d8ac1188bd62a3615e414c026349f9f2feef38865723b7",
+      "license": "MIT"
+    },
+    {
+      "path": "src/nav_system/nav_sim_isaac/nav_sim_isaac/scene/navcheck.py",
+      "original_sha256": "3f8dfcd446d9ab227b1899e27b4563e853fc14969dbcae7b83ce2c1fa20735fb",
+      "export_source_sha256": "3f7b438d76dd7c698919eda84e5b28cb172e2a07c6dd55734d0933e29e82922b",
+      "license": "MIT"
+    },
+    {
+      "path": "src/nav_system/nav_sim_isaac/nav_sim_isaac/scene/site.py",
+      "original_sha256": "94b770340efac4a2f15d036a473791d0136447206c1f3c611cb97fe9f12b381a",
+      "export_source_sha256": "b157d67d0a669bec6389076f597cec10d76e430c08a6e12581cf868487db2452",
+      "license": "MIT"
+    },
+    {
+      "path": "src/nav_system/nav_sim_isaac/nav_sim_isaac/scene/spec.py",
+      "original_sha256": "04b94b2faca4ae5c35497e5531a7a3f71505a1975e24bbf3d2ed1412cf7c423e",
+      "export_source_sha256": "2ff02ab6594ed98fa8f048ae8e5f1805fd50d411f007e3e16762d4d07c58edb7",
+      "license": "MIT"
+    },
+    {
+      "path": "src/nav_system/nav_sim_isaac/nav_sim_isaac/scene/terrain.py",
+      "original_sha256": "f5e56cc742a4d115698f6f56f2e0da6307f05803106822b92b10550d44775254",
+      "export_source_sha256": "3b14350f50601843595747b0d238fddc527153ecae120a64fe97247feddbb2dd",
+      "license": "MIT"
+    },
+    {
+      "path": "src/nav_system/nav_sim_isaac/nav_sim_isaac/scene_script.py",
+      "original_sha256": "dc02ca696b5e9a91d479b55e7468090b28c2124dd5cf568cf7238d2c6ed8e41e",
+      "export_source_sha256": "f63187713877994afe13f0a609d9da957ae9f885ccfb71a2ff7f6dc754cb6889",
+      "license": "MIT"
+    },
+    {
+      "path": "src/nav_system/nav_sim_isaac/scenes/env3_office_two_floors/build_blender.py",
+      "original_sha256": "0abad4002be5217477625e346c941c0fbb2f8e60e83572cf0ac7a279827efae0",
+      "export_source_sha256": "8a0c68b5aa5aef38331166e2630174f42c5b7876ba27502f14cb06a80bfbc036",
+      "license": "MIT"
+    }
+  ],
+  "outputs": {
+    "scene.json": "968d9d63caa67c4d57de275836768b0d2feb0bd815efd7435899312276e24856",
+    "truth.npz": "aaf7dbde0fc2a6db2b6581bec3c4a10676e7a9e1a051847dd43ac31e1355ce1e"
+  }
+}

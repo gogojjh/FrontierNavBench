@@ -1,0 +1,4 @@
+# M5 sparse-initloc-imggoal-astra:稀图(7.5 m / 150°)+ 开头定位一次 + 沿路线给子目标照片,大模型看图走、看图判到没到;模型 OpenAI gpt-6-astra,正式跑走 Flex 档。
+# 数值常量都在 vnav_benchmark/methods/imggoal_vlm.py 与 vnav_benchmark/vlm/,这里只选端点。
+method_id: sparse-initloc-imggoal-astra
+endpoint: astra_flex  # 可选 astra 方法:astra_flex / astra / luna_dev(开发,不进表);qwen 方法:qwen

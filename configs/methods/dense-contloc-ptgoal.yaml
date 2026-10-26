@@ -1,0 +1,5 @@
+# B0 dense-contloc-ptgoal(基线 = LiteVLoc 流程,定位理想化):密图(3.0 m / 45°)+ 持续定位(开头定位一次 +
+# 里程计递推,里程计 = 真值)+ 拓扑图 Dijkstra 规划 + SRU 点目标规划器走子目标坐标,位姿进 0.5 m / 30° 宣布到达。
+# 数值常量都在 vnav_benchmark/methods/ptgoal_sru.py、base_topo.py、sru/core.py,这里只选点目标规划器。
+method_id: dense-contloc-ptgoal
+controller: sru_sidecar  # SRU 旁车(conda sru_nav,CPU ONNX);ROS 变体以后加

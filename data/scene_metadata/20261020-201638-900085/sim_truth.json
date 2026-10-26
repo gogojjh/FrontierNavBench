@@ -1,0 +1,21 @@
+{
+  "scene": "env0_office_single_floor",
+  "task_origin_world": {
+    "position": [
+      12.49944596905154,
+      2.5829578568981093,
+      0.0
+    ],
+    "quat_xyzw": [
+      0.0,
+      0.0,
+      0.7027234884461017,
+      0.7114630691653233
+    ]
+  },
+  "note": "公开地图严格使用任务系,T_task_map=I;真值只用于评测",
+  "layout_md5": {
+    "build_blender": "991f2a585ee38fe308a395b48de1d805",
+    "scene_assets": "fdc4acae0aca3f1be4043e7372a664fe"
+  }
+}
